@@ -1355,3 +1355,490 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.07-12.33.08:611][405]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2023.02.07-12.33.08:662][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
 [2023.02.07-12.33.08:702][406]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2023.02.07-12.34.05:726][121]LogDerivedDataCache: C:/Users/jason/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.209 and deleted 0 files with total size 0 MiB. Scanned 1381 files in 1377 folders with total size 30 MiB.
+[2023.02.07-12.34.19:518][922]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Bat_Spawner.BP_Bat_Spawner_C
+[2023.02.07-12.34.19:518][922]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Bat_Spawner.BP_Bat_Spawner_C
+[2023.02.07-12.34.19:519][922]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner as actor: BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_0
+[2023.02.07-12.34.19:520][922]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner as actor: BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_0
+[2023.02.07-12.34.19:523][922]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.02.07-12.34.23:073][121]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Bat_Spawner.BP_Bat_Spawner_C
+[2023.02.07-12.34.23:073][121]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Bat_Spawner.BP_Bat_Spawner_C
+[2023.02.07-12.34.23:073][121]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner as actor: BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_1
+[2023.02.07-12.34.23:074][121]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner as actor: BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_1
+[2023.02.07-12.34.23:381][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Bat_Spawner.BP_Bat_Spawner_C
+[2023.02.07-12.34.23:382][138]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP_Bat_Spawner.BP_Bat_Spawner_C
+[2023.02.07-12.34.23:395][138]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner as actor: BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+[2023.02.07-12.34.23:396][138]LogActorFactory: Actor Factory spawned Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner as actor: BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+[2023.02.07-12.34.30:834][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.34.30:923][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/BatsGym" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.07-12.34.30:983][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.02.07-12.34.31:036][563]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/BatsGym
+[2023.02.07-12.34.31:037][563]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BatsGym69B9C8544FE00E24631BE2B68BEB5E28.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap'
+[2023.02.07-12.34.31:045][563]LogFileHelpers: Saving map 'BatsGym' took 0.122
+[2023.02.07-12.34.31:061][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 589 ms)
+[2023.02.07-12.34.31:069][563]AssetCheck: New page: Asset Save: BatsGym
+[2023.02.07-12.34.31:069][563]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/BatsGym.BatsGym
+[2023.02.07-12.34.34:014][737]LogViewport: Scene viewport resized to 1124x848, mode Windowed.
+[2023.02.07-12.34.34:064][739]LogViewport: Scene viewport resized to 1057x848, mode Windowed.
+[2023.02.07-12.34.34:103][740]LogViewport: Scene viewport resized to 949x848, mode Windowed.
+[2023.02.07-12.34.34:146][741]LogViewport: Scene viewport resized to 903x848, mode Windowed.
+[2023.02.07-12.34.56:372][ 24]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2023.02.07-12.34.56:372][ 24]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2023.02.07-12.34.56:386][ 24]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.Actor_0
+[2023.02.07-12.34.56:386][ 24]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.Actor_0
+[2023.02.07-12.35.11:704][915]EditorErrors: New page: Actor attachment
+[2023.02.07-12.35.16:926][209]EditorErrors: New page: Actor attachment
+[2023.02.07-12.36.32:046][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.36.32:128][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/BatsGym" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.07-12.36.32:161][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.07-12.36.32:211][562]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/BatsGym
+[2023.02.07-12.36.32:212][562]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BatsGym2A0D76C7478EF071965092B15EC24070.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap'
+[2023.02.07-12.36.32:220][562]LogFileHelpers: Saving map 'BatsGym' took 0.093
+[2023.02.07-12.36.32:231][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 775 ms)
+[2023.02.07-12.36.32:237][562]AssetCheck: New page: Asset Save: BatsGym
+[2023.02.07-12.36.32:238][562]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/BatsGym.BatsGym
+[2023.02.07-12.36.33:361][630]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-12.36.33:361][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-12.36.46:569][292]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.07-12.37.10:661][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.37.10:761][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-12.37.10:770][534]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-12.37.10:771][534]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_SpawnerD8D6F1BD4F8BE7EAF1C45A9754A4563A.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-12.37.10:784][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 897 ms)
+[2023.02.07-12.37.10:791][534]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-12.37.10:791][534]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-12.37.11:197][556]BlueprintLog: New page: Compile BP_Bat_Spawner
+[2023.02.07-12.37.11:279][556]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.07-12.37.13:122][657]LogSlate: Window 'BP_Bat_Spawner' being destroyed
+[2023.02.07-12.37.13:144][657]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-12.37.13:144][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-12.37.16:621][856]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.37.25:495][357]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.07-12.37.28:919][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.37.29:010][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/BatsGym" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.07-12.37.29:047][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.02.07-12.37.29:096][540]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/BatsGym
+[2023.02.07-12.37.29:097][540]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BatsGym2D33184A4EEAE9FF0F16F1AC1573E5EB.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap'
+[2023.02.07-12.37.29:106][540]LogFileHelpers: Saving map 'BatsGym' took 0.097
+[2023.02.07-12.37.29:120][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 1.09 sec)
+[2023.02.07-12.37.29:128][540]AssetCheck: New page: Asset Save: BatsGym
+[2023.02.07-12.37.29:128][540]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/BatsGym.BatsGym
+[2023.02.07-12.37.39:565][145]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-12.37.39:565][145]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-12.38.01:888][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.38.01:969][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-12.38.01:975][254]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-12.38.01:976][254]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_SpawnerA2547923440AECBCA46640916F3F3078.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-12.38.01:987][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.19 sec)
+[2023.02.07-12.38.01:994][254]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-12.38.01:994][254]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-12.38.02:353][272]BlueprintLog: New page: Compile BP_Bat_Spawner
+[2023.02.07-12.38.02:437][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.02.07-12.38.03:139][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.38.03:222][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-12.38.03:229][299]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-12.38.03:230][299]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_Spawner2E0B15EA4EE88AF618027790EBDE11C7.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-12.38.03:240][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1.29 sec)
+[2023.02.07-12.38.03:246][299]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-12.38.03:246][299]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-12.38.11:285][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.38.11:369][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/BatsGym" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.07-12.38.11:414][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.02.07-12.38.11:462][739]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/BatsGym
+[2023.02.07-12.38.11:463][739]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BatsGym5B70DD0B4CAA900E74B92BB16DFDB58C.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap'
+[2023.02.07-12.38.11:471][739]LogFileHelpers: Saving map 'BatsGym' took 0.102
+[2023.02.07-12.38.11:483][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 1.49 sec)
+[2023.02.07-12.38.11:490][739]AssetCheck: New page: Asset Save: BatsGym
+[2023.02.07-12.38.11:490][739]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/BatsGym.BatsGym
+[2023.02.07-12.38.12:761][811]Cmd: DUPLICATE
+[2023.02.07-12.38.12:761][811]Cmd: ACTOR DUPLICATE
+[2023.02.07-12.38.14:540][910]Cmd: DUPLICATE
+[2023.02.07-12.38.14:540][910]Cmd: ACTOR DUPLICATE
+[2023.02.07-12.38.15:514][963]Cmd: TRANSACTION UNDO
+[2023.02.07-12.38.15:514][963]LogEditorTransaction: Undo Duplicate Elements
+[2023.02.07-12.38.16:984][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.38.17:075][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/BatsGym" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.07-12.38.17:119][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.07-12.38.17:170][ 22]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/BatsGym
+[2023.02.07-12.38.17:171][ 22]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BatsGym7F36A9A34E2F51D5DB54BCBE48C7BB2B.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap'
+[2023.02.07-12.38.17:181][ 22]LogFileHelpers: Saving map 'BatsGym' took 0.106
+[2023.02.07-12.38.17:204][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 1.71 sec)
+[2023.02.07-12.38.17:212][ 22]AssetCheck: New page: Asset Save: BatsGym
+[2023.02.07-12.38.17:212][ 22]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/BatsGym.BatsGym
+[2023.02.07-12.38.36:390][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.38.36:478][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-12.38.36:486][ 88]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-12.38.36:487][ 88]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_Spawner4368A45C4760BFE98B1327A065E95BCF.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-12.38.36:498][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.82 sec)
+[2023.02.07-12.38.36:505][ 88]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-12.38.36:505][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-12.38.36:687][ 97]BlueprintLog: New page: Compile BP_Bat_Spawner
+[2023.02.07-12.38.36:773][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.02.07-12.38.37:264][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.38.37:352][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-12.38.37:359][115]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-12.38.37:360][115]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_Spawner58746E4D47DE9605DD09D88CF9E9F45E.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-12.38.37:372][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 1.93 sec)
+[2023.02.07-12.38.37:379][115]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-12.38.37:379][115]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-12.38.38:231][160]LogSlate: Window 'BP_Bat_Spawner' being destroyed
+[2023.02.07-12.38.38:282][160]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-12.38.38:283][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-12.38.45:928][588]Cmd: DUPLICATE
+[2023.02.07-12.38.45:928][588]Cmd: ACTOR DUPLICATE
+[2023.02.07-12.38.52:919][994]Cmd: DUPLICATE
+[2023.02.07-12.38.52:919][994]Cmd: ACTOR DUPLICATE
+[2023.02.07-12.38.56:348][191]Cmd: DUPLICATE
+[2023.02.07-12.38.56:348][191]Cmd: ACTOR DUPLICATE
+[2023.02.07-12.39.06:693][789]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.07:171][817]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.07:171][817]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.07:687][847]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.07:687][847]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.07:688][847]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.08:132][872]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.08:132][872]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.08:132][872]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.08:132][872]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.09:950][969]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.09:950][969]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.09:950][969]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.11:964][ 74]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.11:964][ 74]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.BP_Bat_Spawner_C_2
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:UserConstructionScript:019E
+[2023.02.07-12.39.16:476][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.39.16:558][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/BatsGym" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.07-12.39.16:595][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.02.07-12.39.16:648][306]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/BatsGym
+[2023.02.07-12.39.16:649][306]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BatsGymEAEE2C7D4A6CE0A607FD3D8EFB239C61.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap'
+[2023.02.07-12.39.16:658][306]LogFileHelpers: Saving map 'BatsGym' took 0.100
+[2023.02.07-12.39.16:680][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 2.13 sec)
+[2023.02.07-12.39.16:688][306]AssetCheck: New page: Asset Save: BatsGym
+[2023.02.07-12.39.16:688][306]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/BatsGym.BatsGym
+[2023.02.07-12.39.35:810][412]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-12.39.35:810][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-12.49.16:753][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.07-12.49.16:810][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/BatsGym_Auto1
+[2023.02.07-12.49.16:811][854]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BatsGym_Auto1671D6E92427474C3F20D3F9BC60A98FD.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/FirstPerson/Maps/BatsGym_Auto1.umap'
+[2023.02.07-12.49.16:819][854]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/BatsGym' took 0.114
+[2023.02.07-12.49.16:819][854]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.114
+[2023.02.07-12.49.16:819][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Bat_Spawner] ([2] browsable assets)...
+[2023.02.07-12.49.16:819][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Bat_Spawner]
+[2023.02.07-12.49.16:819][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/BP_Bat_Spawner_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.02.07-12.49.16:827][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Bat_Spawner_Auto1
+[2023.02.07-12.49.16:827][854]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_Spawner_Auto10D661C654002B1181FAE6C89AC8CF472.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/BP_Bat_Spawner_Auto1.uasset'
+[2023.02.07-12.49.16:828][854]LogFileHelpers: Auto-saving content packages took 0.009
+[2023.02.07-12.53.12:786][247]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.07-12.53.12:787][247]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.07-12.53.12:787][247]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.07-12.55.42:116][ 38]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AActor::K2_GetActorLocation' [Element not found.]
+[2023.02.07-12.56.40:960][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.56.41:045][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-12.56.41:056][108]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-12.56.41:057][108]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_Spawner0C7102224573F3E92A3A459DD1E7D517.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-12.56.41:071][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.24 sec)
+[2023.02.07-12.56.41:078][108]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-12.56.41:078][108]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-12.57.15:417][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.57.15:522][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-12.57.15:534][887]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-12.57.15:535][887]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_SpawnerD71F26E341D66E580ADBDBA68E5BB184.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-12.57.15:549][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 2.37 sec)
+[2023.02.07-12.57.15:556][887]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-12.57.15:556][887]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-12.57.16:017][911]BlueprintLog: New page: Compile BP_Bat_Spawner
+[2023.02.07-12.57.16:113][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.02.07-12.57.19:511][ 94]LogSlate: Window 'BP_Bat_Spawner' being destroyed
+[2023.02.07-12.57.19:558][ 94]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-12.57.19:558][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-12.57.25:517][432]Cmd: DELETE
+[2023.02.07-12.57.25:517][432]Cmd: ACTOR DELETE
+[2023.02.07-12.57.25:526][432]LogEditorActor: Deleted Actor: BP_NPC_Bat_C
+[2023.02.07-12.57.25:528][432]LogEditorActor: Deleted Actor: BP_NPC_Bat_C
+[2023.02.07-12.57.25:529][432]LogEditorActor: Deleted Actor: BP_NPC_Bat_C
+[2023.02.07-12.57.25:568][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.02.07-12.57.25:574][432]LogEditorActor: Deleted 3 Actors (0.057 secs)
+[2023.02.07-12.57.26:491][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-12.57.26:577][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/BatsGym" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.07-12.57.26:611][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.07-12.57.26:660][479]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/BatsGym
+[2023.02.07-12.57.26:661][479]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BatsGym421481664FAAC57168FA6280439A1EC7.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap'
+[2023.02.07-12.57.26:669][479]LogFileHelpers: Saving map 'BatsGym' took 0.092
+[2023.02.07-12.57.26:682][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 2.57 sec)
+[2023.02.07-12.57.26:690][479]AssetCheck: New page: Asset Save: BatsGym
+[2023.02.07-12.57.26:690][479]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/BatsGym.BatsGym
+[2023.02.07-12.57.27:479][526]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.07-12.57.27:488][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-12.57.27:488][526]PIE: New page: PIE session: BatsGym (7 Feb 2023, 14:57:27)
+[2023.02.07-12.57.27:488][526]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.07-12.57.27:541][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053003s)
+[2023.02.07-12.57.27:541][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.053067s)
+[2023.02.07-12.57.27:541][526]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-12.57.27:542][526]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.07-12.57.27:542][526]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2023.02.07-12.57.27:581][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.02.07-12.57.27:582][526]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.07-12.57.27:583][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-12.57.27:583][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-12.57.27:583][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-12.57.27:583][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-12.57.27:583][526]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-12.57.27:583][526]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.07-12.57.27:583][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-12.57.27:583][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-12.57.27:583][526]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-12.57.27:583][526]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-12.57.27:583][526]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-12.57.27:586][526]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.07-12.57.27:689][526]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.07-12.57.27:690][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-12.57.27:690][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-12.57.27:690][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-12.57.27:691][526]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.02.07-12.57.27:691][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2023.02.07-12.57.27:693][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.02.07-12.57.27:693][526]LogInit: FAudioDevice initialized.
+[2023.02.07-12.57.27:693][526]LogAudio: Display: Audio Device (ID: 3) registered with world 'BatsGym'.
+[2023.02.07-12.57.27:693][526]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.02.07-12.57.27:701][526]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.07-12.57.27:703][526]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 60) at 2023.02.07-13.57.27
+[2023.02.07-12.57.27:703][526]LogWorld: Bringing up level for play took: 0.001964
+[2023.02.07-12.57.27:706][526]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.02.07-12.57.27:719][526]PIE: Server logged in
+[2023.02.07-12.57.27:720][526]PIE: Play in editor total start time 0,232 seconds.
+[2023.02.07-12.57.49:498][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-12.57.49:498][810]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.07-12.57.49:498][810]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-12.57.49:499][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-12.57.49:503][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-12.57.49:509][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-12.57.49:542][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-12.57.49:543][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.07-12.57.49:545][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.02.07-12.57.49:556][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-12.57.49:560][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.02.07-12.57.49:631][811]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.02.07-12.57.54:944][ 41]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-12.57.54:945][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-12.58.03:471][428]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.07-12.58.03:472][428]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.07-12.58.03:472][428]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.07-13.00.55:346][287]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.00.55:433][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-13.00.55:445][287]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-13.00.55:445][287]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_SpawnerE4915F2448BB414F172308A369F093DC.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-13.00.55:457][287]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 2.68 sec)
+[2023.02.07-13.00.55:465][287]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-13.00.55:465][287]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-13.00.58:011][437]BlueprintLog: New page: Compile BP_Bat_Spawner
+[2023.02.07-13.00.58:024][437]LogBlueprint: Warning: [AssetLog] C:\Dev\BATSWITHLEGS\BatsWithLegs\Content\BP_Bat_Spawner.uasset: [Compiler] Get All Actors Of Class  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2023.02.07-13.00.58:028][437]LogBlueprint: Error: [AssetLog] C:\Dev\BATSWITHLEGS\BatsWithLegs\Content\BP_Bat_Spawner.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2023.02.07-13.00.58:101][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.02.07-13.05.29:838][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.05.29:924][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-13.05.29:937][673]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-13.05.29:937][673]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_Spawner11872E4640EB1ECE05C77D871FA07576.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-13.05.29:948][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 2.79 sec)
+[2023.02.07-13.05.29:959][673]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-13.05.29:959][673]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-13.05.30:242][689]BlueprintLog: New page: Compile BP_Bat_Spawner
+[2023.02.07-13.05.30:321][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.02.07-13.05.31:031][716]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.05.31:123][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-13.05.31:135][716]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-13.05.31:136][716]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_SpawnerCF4F9A7D4CD901B2F56217A0451396AE.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-13.05.31:150][716]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 2.91 sec)
+[2023.02.07-13.05.31:157][716]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-13.05.31:157][716]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-13.08.01:725][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.02.07-13.08.01:775][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/BatsGym_Auto2
+[2023.02.07-13.08.01:776][526]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BatsGym_Auto2EED867464326A265CD8ECC88091B47A1.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/FirstPerson/Maps/BatsGym_Auto2.umap'
+[2023.02.07-13.08.01:783][526]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/BatsGym' took 0.099
+[2023.02.07-13.08.01:783][526]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.099
+[2023.02.07-13.08.01:783][526]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Bat_Spawner] ([2] browsable assets)...
+[2023.02.07-13.08.01:783][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Bat_Spawner]
+[2023.02.07-13.08.01:783][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/BP_Bat_Spawner_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.02.07-13.08.01:795][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_Bat_Spawner_Auto2
+[2023.02.07-13.08.01:795][526]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_Spawner_Auto25E2D305B429047FA9E5B4C9141A50BE8.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/BP_Bat_Spawner_Auto2.uasset'
+[2023.02.07-13.08.01:797][526]LogFileHelpers: Auto-saving content packages took 0.013
+[2023.02.07-13.10.49:615][453]BlueprintLog: New page: Compile BP_Bat_Spawner
+[2023.02.07-13.10.49:699][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.02.07-13.13.17:057][963]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.02.07-13.13.21:351][184]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.02.07-13.13.21:363][184]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.02.07-13.16.41:715][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.16.41:801][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-13.16.41:814][364]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-13.16.41:815][364]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_SpawnerCB33F7FC418611F5561C358DFF66900C.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-13.16.41:827][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.02 sec)
+[2023.02.07-13.16.41:835][364]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-13.16.41:835][364]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-13.16.43:801][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.16.43:900][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-13.16.43:913][468]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-13.16.43:914][468]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_Spawner8141347E41721B3AFB1CF8996EE20C33.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-13.16.43:927][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 3.15 sec)
+[2023.02.07-13.16.43:936][468]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-13.16.43:936][468]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-13.16.44:451][499]BlueprintLog: New page: Compile BP_Bat_Spawner
+[2023.02.07-13.16.44:534][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.02.07-13.16.44:984][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.16.45:069][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Bat_Spawner" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset" SILENT=true
+[2023.02.07-13.16.45:081][515]LogSavePackage: Moving output files for package: /Game/BP_Bat_Spawner
+[2023.02.07-13.16.45:081][515]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_Bat_SpawnerC1CDC1F94322C1D9DF6D52B32FC319B0.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_Bat_Spawner.uasset'
+[2023.02.07-13.16.45:093][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 3.25 sec)
+[2023.02.07-13.16.45:099][515]AssetCheck: New page: Asset Save: BP_Bat_Spawner
+[2023.02.07-13.16.45:099][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_Bat_Spawner.BP_Bat_Spawner
+[2023.02.07-13.16.45:755][551]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.07-13.16.45:763][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-13.16.45:763][551]PIE: New page: PIE session: BatsGym (7 Feb 2023, 15:16:45)
+[2023.02.07-13.16.45:763][551]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.07-13.16.45:817][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053424s)
+[2023.02.07-13.16.45:817][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.053476s)
+[2023.02.07-13.16.45:817][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-13.16.45:818][551]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.07-13.16.45:818][551]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2023.02.07-13.16.45:861][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.07-13.16.45:863][551]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.07-13.16.45:863][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-13.16.45:863][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-13.16.45:863][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-13.16.45:863][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-13.16.45:863][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-13.16.45:863][551]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.07-13.16.45:863][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-13.16.45:863][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-13.16.45:864][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-13.16.45:864][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-13.16.45:864][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-13.16.45:866][551]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.07-13.16.45:974][551]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.07-13.16.45:975][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-13.16.45:975][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-13.16.45:975][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-13.16.45:976][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.02.07-13.16.45:976][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2023.02.07-13.16.45:978][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.02.07-13.16.45:978][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.02.07-13.16.45:978][551]LogInit: FAudioDevice initialized.
+[2023.02.07-13.16.45:978][551]LogAudio: Display: Audio Device (ID: 4) registered with world 'BatsGym'.
+[2023.02.07-13.16.45:989][551]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.07-13.16.45:991][551]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 60) at 2023.02.07-14.16.45
+[2023.02.07-13.16.45:991][551]LogWorld: Bringing up level for play took: 0.002083
+[2023.02.07-13.16.45:994][551]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.02.07-13.16.46:008][551]PIE: Server logged in
+[2023.02.07-13.16.46:009][551]PIE: Play in editor total start time 0,245 seconds.
+[2023.02.07-13.16.46:032][551]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.02.07-13.16.57:694][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-13.16.57:694][230]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.07-13.16.57:694][230]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-13.16.57:695][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-13.16.57:710][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-13.16.57:715][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-13.16.57:757][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-13.16.57:757][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.07-13.16.57:759][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.02.07-13.16.57:770][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-13.16.57:774][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.02.07-13.16.57:827][231]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.02.07-13.17.01:548][428]LogSlate: Window 'BP_Bat_Spawner' being destroyed
+[2023.02.07-13.17.01:569][428]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-13.17.01:569][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-13.17.02:949][500]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_NPC_Bat.BP_NPC_Bat
+[2023.02.07-13.17.02:950][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-13.17.59:167][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.17.59:319][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC_Bat" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset" SILENT=true
+[2023.02.07-13.17.59:330][523]LogSavePackage: Moving output files for package: /Game/BP_NPC_Bat
+[2023.02.07-13.17.59:331][523]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_NPC_Bat9203CAE84B5052F2605DF9BCD96745F7.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset'
+[2023.02.07-13.17.59:345][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 3.43 sec)
+[2023.02.07-13.17.59:353][523]AssetCheck: New page: Asset Save: BP_NPC_Bat
+[2023.02.07-13.17.59:353][523]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_NPC_Bat.BP_NPC_Bat
+[2023.02.07-13.17.59:443][527]BlueprintLog: New page: Compile BP_NPC_Bat
+[2023.02.07-13.17.59:527][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.02.07-13.18.00:101][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.18.00:225][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC_Bat" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset" SILENT=true
+[2023.02.07-13.18.00:236][547]LogSavePackage: Moving output files for package: /Game/BP_NPC_Bat
+[2023.02.07-13.18.00:237][547]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_NPC_BatEDF741694F8D6F6C50DD4385593E777B.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset'
+[2023.02.07-13.18.00:256][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 3.59 sec)
+[2023.02.07-13.18.00:262][547]AssetCheck: New page: Asset Save: BP_NPC_Bat
+[2023.02.07-13.18.00:262][547]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_NPC_Bat.BP_NPC_Bat
+[2023.02.07-13.18.02:222][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.18.02:356][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC_Bat" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset" SILENT=true
+[2023.02.07-13.18.02:367][648]LogSavePackage: Moving output files for package: /Game/BP_NPC_Bat
+[2023.02.07-13.18.02:368][648]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_NPC_Bat1FC18959438D1F78DE4C5E933BCF8352.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset'
+[2023.02.07-13.18.02:381][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 3.75 sec)
+[2023.02.07-13.18.02:389][648]AssetCheck: New page: Asset Save: BP_NPC_Bat
+[2023.02.07-13.18.02:389][648]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_NPC_Bat.BP_NPC_Bat
+[2023.02.07-13.18.02:853][671]BlueprintLog: New page: Compile BP_NPC_Bat
+[2023.02.07-13.18.02:934][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.02.07-13.18.50:885][339]BlueprintLog: New page: Compile BP_NPC_Bat
+[2023.02.07-13.18.50:966][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.02.07-13.18.51:507][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.18.51:629][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC_Bat" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset" SILENT=true
+[2023.02.07-13.18.51:639][359]LogSavePackage: Moving output files for package: /Game/BP_NPC_Bat
+[2023.02.07-13.18.51:640][359]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_NPC_Bat6272531D4760A7636BF6F4BC759341D7.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset'
+[2023.02.07-13.18.51:651][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 3.89 sec)
+[2023.02.07-13.18.51:657][359]AssetCheck: New page: Asset Save: BP_NPC_Bat
+[2023.02.07-13.18.51:657][359]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_NPC_Bat.BP_NPC_Bat
+[2023.02.07-13.19.12:293][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.19.12:435][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC_Bat" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset" SILENT=true
+[2023.02.07-13.19.12:446][528]LogSavePackage: Moving output files for package: /Game/BP_NPC_Bat
+[2023.02.07-13.19.12:447][528]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_NPC_Bat7AD8A8434E6885BEA20EE5ACF3C3CCE2.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset'
+[2023.02.07-13.19.12:459][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 4.06 sec)
+[2023.02.07-13.19.12:466][528]AssetCheck: New page: Asset Save: BP_NPC_Bat
+[2023.02.07-13.19.12:466][528]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_NPC_Bat.BP_NPC_Bat
+[2023.02.07-13.20.31:366][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.20.31:514][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC_Bat" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset" SILENT=true
+[2023.02.07-13.20.31:527][647]LogSavePackage: Moving output files for package: /Game/BP_NPC_Bat
+[2023.02.07-13.20.31:528][647]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_NPC_BatD2AE01564539977185DD49BD666ED8E1.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset'
+[2023.02.07-13.20.31:544][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 4.23 sec)
+[2023.02.07-13.20.31:552][647]AssetCheck: New page: Asset Save: BP_NPC_Bat
+[2023.02.07-13.20.31:552][647]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_NPC_Bat.BP_NPC_Bat
+[2023.02.07-13.20.31:796][660]BlueprintLog: New page: Compile BP_NPC_Bat
+[2023.02.07-13.20.31:880][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.02.07-13.20.32:351][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-13.20.32:476][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC_Bat" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset" SILENT=true
+[2023.02.07-13.20.32:488][676]LogSavePackage: Moving output files for package: /Game/BP_NPC_Bat
+[2023.02.07-13.20.32:488][676]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_NPC_BatD01B6AC0419897B7668772B1EBBA9DE7.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset'
+[2023.02.07-13.20.32:500][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 4.38 sec)
+[2023.02.07-13.20.32:508][676]AssetCheck: New page: Asset Save: BP_NPC_Bat
+[2023.02.07-13.20.32:508][676]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_NPC_Bat.BP_NPC_Bat
+[2023.02.07-13.21.08:001][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.02.07-13.21.08:052][732]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/BatsGym_Auto3
+[2023.02.07-13.21.08:053][732]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BatsGym_Auto3E29DECAE4F11EC8AB90B7C982EF92081.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/FirstPerson/Maps/BatsGym_Auto3.umap'
+[2023.02.07-13.21.08:060][732]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/BatsGym' took 0.103
+[2023.02.07-13.21.08:060][732]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.103
+[2023.02.07-13.29.35:558][968]LogSlate: Window 'BP_NPC_Bat' being destroyed
+[2023.02.07-13.29.35:581][968]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-13.29.35:581][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
