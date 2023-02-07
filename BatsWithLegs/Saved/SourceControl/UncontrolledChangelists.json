@@ -5,14 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"D:/Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"D:/Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/L_GymVasco.umap",
-				"D:/Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
-				"D:/Github/BATSWITHLEGS/BatsWithLegs/Content/Materials/M_TempShockWave.uasset"
-=======
 				"C:/Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap"
->>>>>>> main
 			]
 		}
 	]
