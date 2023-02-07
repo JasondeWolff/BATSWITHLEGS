@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset",
+				"D:/Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"D:/Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/L_GymVasco.umap",
+				"D:/Github/BATSWITHLEGS/BatsWithLegs/Content/Materials/M_TempShockWave.uasset",
+				"D:/Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
 				"C:/Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap"
 			]
 		}
