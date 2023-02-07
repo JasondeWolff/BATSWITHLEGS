@@ -2308,3 +2308,147 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.07-14.49.32:815][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.92 sec)
 [2023.02.07-14.49.32:826][336]AssetCheck: New page: Asset Save: BP_NPC_Bat
 [2023.02.07-14.49.32:826][336]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_NPC_Bat.BP_NPC_Bat
+[2023.02.07-14.50.46:938][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-14.50.46:990][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/NewWidgetBlueprint" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Blueprints/NewWidgetBlueprint.uasset" SILENT=true
+[2023.02.07-14.50.47:001][ 20]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/NewWidgetBlueprint
+[2023.02.07-14.50.47:002][ 20]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/NewWidgetBlueprintB02DF83F4911F1BEADC21A95B41EDF5F.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Blueprints/NewWidgetBlueprint.uasset'
+[2023.02.07-14.50.47:025][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 6.01 sec)
+[2023.02.07-14.50.47:038][ 20]AssetCheck: New page: Asset Save: NewWidgetBlueprint
+[2023.02.07-14.50.47:038][ 20]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint
+[2023.02.07-14.50.47:635][ 54]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2023.02.07-14.50.47:793][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2023.02.07-14.50.48:261][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-14.50.48:307][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/NewWidgetBlueprint" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Blueprints/NewWidgetBlueprint.uasset" SILENT=true
+[2023.02.07-14.50.48:317][ 69]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/NewWidgetBlueprint
+[2023.02.07-14.50.48:318][ 69]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/NewWidgetBlueprintA11535404C3FAFF19234E3B8DF66DD85.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Blueprints/NewWidgetBlueprint.uasset'
+[2023.02.07-14.50.48:335][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 6.08 sec)
+[2023.02.07-14.50.48:347][ 69]AssetCheck: New page: Asset Save: NewWidgetBlueprint
+[2023.02.07-14.50.48:347][ 69]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Blueprints/NewWidgetBlueprint.NewWidgetBlueprint
+[2023.02.07-14.50.50:195][171]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.07-14.50.50:209][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-14.50.50:209][171]PIE: New page: PIE session: BatsGym (7 Feb 2023, 16:50:50)
+[2023.02.07-14.50.50:209][171]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.07-14.50.50:284][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075069s)
+[2023.02.07-14.50.50:284][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.075159s)
+[2023.02.07-14.50.50:284][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-14.50.50:284][171]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.07-14.50.50:285][171]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2023.02.07-14.50.50:406][171]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2023.02.07-14.50.50:408][171]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.02.07-14.50.50:408][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-14.50.50:408][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-14.50.50:408][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-14.50.50:408][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-14.50.50:408][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-14.50.50:408][171]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.07-14.50.50:408][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-14.50.50:408][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-14.50.50:409][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-14.50.50:409][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-14.50.50:409][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-14.50.50:412][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.07-14.50.50:513][171]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.07-14.50.50:513][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-14.50.50:513][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-14.50.50:513][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-14.50.50:513][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.02.07-14.50.50:513][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=12
+[2023.02.07-14.50.50:516][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.02.07-14.50.50:516][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.02.07-14.50.50:516][171]LogInit: FAudioDevice initialized.
+[2023.02.07-14.50.50:516][171]LogAudio: Display: Audio Device (ID: 12) registered with world 'BatsGym'.
+[2023.02.07-14.50.50:562][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-14.50.50:562][171]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.07-14.50.50:564][171]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 60) at 2023.02.07-15.50.50
+[2023.02.07-14.50.50:564][171]LogWorld: Bringing up level for play took: 0.002222
+[2023.02.07-14.50.50:568][171]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.02.07-14.50.50:576][171]PIE: Server logged in
+[2023.02.07-14.50.50:579][171]PIE: Play in editor total start time 0,37 seconds.
+[2023.02.07-14.50.50:621][171]LogViewport: Scene viewport resized to 1913x1220, mode Windowed.
+[2023.02.07-14.51.02:802][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-14.51.02:802][757]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.07-14.51.02:804][757]LogSlate: Window 'BatsWithLegs Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.02.07-14.51.02:822][757]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-14.51.02:823][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-14.51.02:827][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-14.51.02:839][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-14.51.02:976][757]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-14.51.02:977][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.02.07-14.51.02:979][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.02.07-14.51.02:999][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.02.07-14.51.03:049][758]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.02.07-14.51.20:125][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-14.51.20:168][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_NPC_Bat" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset" SILENT=true
+[2023.02.07-14.51.20:189][615]LogSavePackage: Moving output files for package: /Game/BP_NPC_Bat
+[2023.02.07-14.51.20:189][615]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BP_NPC_Bat51E9AE43464244EE6C00C9928A1ED831.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/BP_NPC_Bat.uasset'
+[2023.02.07-14.51.20:217][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 6.18 sec)
+[2023.02.07-14.51.20:230][615]AssetCheck: New page: Asset Save: BP_NPC_Bat
+[2023.02.07-14.51.20:231][615]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP_NPC_Bat.BP_NPC_Bat
+[2023.02.07-14.51.21:849][693]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.07-14.51.21:858][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.07-14.51.21:858][693]PIE: New page: PIE session: BatsGym (7 Feb 2023, 16:51:21)
+[2023.02.07-14.51.21:858][693]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.07-14.51.21:906][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048167s)
+[2023.02.07-14.51.21:906][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.048224s)
+[2023.02.07-14.51.21:907][693]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.07-14.51.21:907][693]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.07-14.51.21:907][693]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2023.02.07-14.51.22:023][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2023.02.07-14.51.22:029][693]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.02.07-14.51.22:029][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.07-14.51.22:029][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.07-14.51.22:029][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.07-14.51.22:029][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.07-14.51.22:029][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.07-14.51.22:029][693]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.07-14.51.22:029][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.07-14.51.22:029][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.07-14.51.22:029][693]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.07-14.51.22:029][693]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.07-14.51.22:029][693]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.07-14.51.22:032][693]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.07-14.51.22:132][693]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.02.07-14.51.22:133][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.07-14.51.22:133][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.07-14.51.22:133][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.07-14.51.22:134][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.02.07-14.51.22:134][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=13
+[2023.02.07-14.51.22:136][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.02.07-14.51.22:136][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.02.07-14.51.22:136][693]LogInit: FAudioDevice initialized.
+[2023.02.07-14.51.22:136][693]LogAudio: Display: Audio Device (ID: 13) registered with world 'BatsGym'.
+[2023.02.07-14.51.22:188][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-14.51.22:188][693]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.07-14.51.22:189][693]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 60) at 2023.02.07-15.51.22
+[2023.02.07-14.51.22:190][693]LogWorld: Bringing up level for play took: 0.002037
+[2023.02.07-14.51.22:193][693]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.02.07-14.51.22:199][693]PIE: Server logged in
+[2023.02.07-14.51.22:203][693]PIE: Play in editor total start time 0,345 seconds.
+[2023.02.07-14.51.22:256][693]LogViewport: Scene viewport resized to 1913x1230, mode Windowed.
+[2023.02.07-14.51.31:162][151]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.07-14.51.31:162][151]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.07-14.51.31:164][151]LogSlate: Window 'BatsWithLegs Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.02.07-14.51.31:183][151]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.07-14.51.31:184][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-14.51.31:188][151]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.07-14.51.31:202][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.07-14.51.31:342][151]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.07-14.51.31:342][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.07-14.51.31:345][151]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.02.07-14.51.31:367][151]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2023.02.07-14.51.31:419][152]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.02.07-14.51.37:750][396]Cmd: DELETE
+[2023.02.07-14.51.37:750][396]Cmd: ACTOR DELETE
+[2023.02.07-14.51.37:782][396]LogEditorActor: Deleted Actor: Brush
+[2023.02.07-14.51.37:900][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.02.07-14.51.37:962][396]LogEditorActor: Deleted 1 Actors (0.211 secs)
+[2023.02.07-14.51.38:064][399]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.07-14.51.38:987][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.07-14.51.39:099][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/BatsGym" FILE="../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.07-14.51.39:216][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.02.07-14.51.39:265][437]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/BatsGym
+[2023.02.07-14.51.39:266][437]LogSavePackage: Moving '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Saved/BatsGym1666F4244EFD48199E0DC2A1B48D1E73.tmp' to '../../../../../../Dev/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/BatsGym.umap'
+[2023.02.07-14.51.39:277][437]LogFileHelpers: Saving map 'BatsGym' took 0.179
+[2023.02.07-14.51.39:288][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 301 ms (total: 6.48 sec)
+[2023.02.07-14.51.39:298][437]AssetCheck: New page: Asset Save: BatsGym
+[2023.02.07-14.51.39:298][437]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/BatsGym.BatsGym
