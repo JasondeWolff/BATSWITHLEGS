@@ -2485,3 +2485,1429 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.08-12.26.49:977][475]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.654
 [2023.02.08-12.27.42:638][632]LogViewport: Scene viewport resized to 2508x1393, mode Windowed.
 [2023.02.08-12.27.44:053][635]LogViewport: Scene viewport resized to 2508x1333, mode Windowed.
+[2023.02.08-13.15.02:696][146]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.02.08-13.15.02:696][146]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.02.08-13.17.55:287][768]LogDerivedDataCache: C:/Users/sebvd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.210 and deleted 0 files with total size 0 MiB. Scanned 10450 files in 10178 folders with total size 752 MiB.
+[2023.02.08-13.38.31:171][278]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/school/Year 2/Block C/Cat Gun 9000/Models/TrackPart.fbx)
+[2023.02.08-13.38.31:187][278]LogFbx: Loading FBX Scene from D:/school/Year 2/Block C/Cat Gun 9000/Models/TrackPart.fbx
+[2023.02.08-13.38.31:215][278]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.08-13.38.34:234][278]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.08-13.38.34:389][278]LogFbx: Display: Triangulating static mesh pCube1
+[2023.02.08-13.38.34:393][278]LogFbx: Display: Triangulating static mesh pCube2
+[2023.02.08-13.38.34:400][278]LogFbx: Display: Triangulating static mesh null1
+[2023.02.08-13.38.34:446][278]LogFbx: Display: Triangulating static mesh pCube3
+[2023.02.08-13.38.34:449][278]LogFbx: Display: Triangulating static mesh pCube11
+[2023.02.08-13.38.34:452][278]LogFbx: Display: Triangulating static mesh pCube22
+[2023.02.08-13.38.34:455][278]LogFbx: Display: Triangulating static mesh null13
+[2023.02.08-13.38.34:501][278]LogFbx: Display: Triangulating static mesh pCube4
+[2023.02.08-13.38.34:503][278]LogFbx: Display: Triangulating static mesh pCube14
+[2023.02.08-13.38.34:506][278]LogFbx: Display: Triangulating static mesh pCube25
+[2023.02.08-13.38.34:510][278]LogFbx: Display: Triangulating static mesh null16
+[2023.02.08-13.38.34:556][278]LogFbx: Display: Triangulating static mesh pCube5
+[2023.02.08-13.38.34:581][278]LogStaticMesh: Display: Building static mesh TrackPart...
+[2023.02.08-13.38.34:729][278]LogStaticMesh: Built static mesh [0.15s] /Game/Meshes/TrackPart.TrackPart
+[2023.02.08-13.38.34:794][278]FBXImport: FBX File Loading: Found name clash, node 'pCube1' was renamed to 'pCube11' 
+[2023.02.08-13.38.34:794][278]FBXImport: FBX File Loading: Found name clash, node 'pCube2' was renamed to 'pCube22' 
+[2023.02.08-13.38.34:795][278]FBXImport: FBX File Loading: Found name clash, node 'null1' was renamed to 'null13' 
+[2023.02.08-13.38.34:795][278]FBXImport: FBX File Loading: Found name clash, node 'pCube1' was renamed to 'pCube14' 
+[2023.02.08-13.38.34:795][278]FBXImport: FBX File Loading: Found name clash, node 'pCube2' was renamed to 'pCube25' 
+[2023.02.08-13.38.34:795][278]FBXImport: FBX File Loading: Found name clash, node 'null1' was renamed to 'null16' 
+[2023.02.08-13.38.36:998][334]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-13.38.37:048][334]LogSlate: Window 'Message Log' being destroyed
+[2023.02.08-13.38.38:346][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.02.08-13.38.38:350][375]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/BatsGym' took 0.033
+[2023.02.08-13.38.38:351][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/TrackPart] ([1] browsable assets)...
+[2023.02.08-13.38.38:387][375]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/TrackPart.TrackPart]
+[2023.02.08-13.38.38:387][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/TrackPart]
+[2023.02.08-13.38.38:387][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TrackPart" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/Meshes/TrackPart_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.02.08-13.38.38:472][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/TrackPart_Auto6
+[2023.02.08-13.38.38:472][375]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/TrackPart_Auto62DAC40AB4D519C38EA4FE6BC7A778385.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/Meshes/TrackPart_Auto6.uasset'
+[2023.02.08-13.38.38:481][375]LogFileHelpers: Auto-saving content packages took 0.131
+[2023.02.08-13.38.39:230][391]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/TrackPart.TrackPart
+[2023.02.08-13.38.39:230][391]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/TrackPart.TrackPart
+[2023.02.08-13.38.39:231][391]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/TrackPart.TrackPart as actor: StaticMeshActor /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.StaticMeshActor_10
+[2023.02.08-13.38.40:712][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/TrackPart.TrackPart
+[2023.02.08-13.38.40:713][439]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/TrackPart.TrackPart
+[2023.02.08-13.38.40:737][439]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/TrackPart.TrackPart as actor: StaticMeshActor /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.StaticMeshActor_11
+[2023.02.08-13.38.40:952][440]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.39.41:476][755]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.39.41:477][755]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.02.08-13.39.41:478][755]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.02.08-13.39.41:530][756]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.02.08-13.39.41:606][757]LogTexture: Display: Building textures: /Game/Textures/lambert1_ORM.lambert1_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-13.39.41:614][757]LogTexture: Display: Building textures: /Game/Textures/lambert1_D.lambert1_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-13.39.41:738][758]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.02.08-13.39.41:738][758]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.02.08-13.39.41:759][758]LogTexture: Display: Building textures: /Game/Textures/lambert1_N.lambert1_N (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-13.39.41:828][758]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18446735309689373230
+[2023.02.08-13.39.41:829][758]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2023.02.08-13.39.41:886][759]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.39.41:933][759]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.39.42:046][759]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.02.08-13.39.42:051][759]LogTexture: Display: Building textures: /Game/Textures/lambert1_N.lambert1_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 213.562488 MB), EncodeSpeed: Fast
+[2023.02.08-13.39.55:879][267]LogContentBrowser: Attempting asset rename: lambert1_ORM -> T_TrackPart_ORM
+[2023.02.08-13.39.57:499][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.08-13.39.57:570][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_TrackPart_ORM" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_TrackPart_ORM.uasset" SILENT=true
+[2023.02.08-13.39.57:721][267]LogSavePackage: Moving output files for package: /Game/Textures/T_TrackPart_ORM
+[2023.02.08-13.39.57:721][267]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/T_TrackPart_ORMDD1DE61A4A5A9A2719F6E584F2DF8363.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_TrackPart_ORM.uasset'
+[2023.02.08-13.39.58:287][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 788 ms (total: 3.05 sec)
+[2023.02.08-13.39.58:536][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.02.08-13.39.58:562][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.02.08-13.39.58:585][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.08-13.39.58:592][267]AssetCheck: New page: Asset Save: T_TrackPart_ORM
+[2023.02.08-13.39.58:592][267]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM
+[2023.02.08-13.40.06:194][575]LogContentBrowser: Attempting asset rename: lambert1_D -> T_TrackPart_D
+[2023.02.08-13.40.07:612][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.08-13.40.07:683][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_TrackPart_D" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_TrackPart_D.uasset" SILENT=true
+[2023.02.08-13.40.07:799][575]LogSavePackage: Moving output files for package: /Game/Textures/T_TrackPart_D
+[2023.02.08-13.40.07:799][575]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/T_TrackPart_D2C63C0CA4366E856318073BFA8B67C12.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_TrackPart_D.uasset'
+[2023.02.08-13.40.08:506][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 893 ms (total: 3.94 sec)
+[2023.02.08-13.40.08:756][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.08-13.40.08:780][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.02.08-13.40.08:802][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.02.08-13.40.08:810][575]AssetCheck: New page: Asset Save: T_TrackPart_D
+[2023.02.08-13.40.08:810][575]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_TrackPart_D.T_TrackPart_D
+[2023.02.08-13.40.13:216][766]LogContentBrowser: Attempting asset rename: lambert1_N -> T_TrackPart_N
+[2023.02.08-13.40.14:626][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.08-13.40.14:696][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_TrackPart_N" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_TrackPart_N.uasset" SILENT=true
+[2023.02.08-13.40.14:816][766]LogSavePackage: Moving output files for package: /Game/Textures/T_TrackPart_N
+[2023.02.08-13.40.14:816][766]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/T_TrackPart_N32780C1D4C96996495279A972736731A.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_TrackPart_N.uasset'
+[2023.02.08-13.40.15:513][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 887 ms (total: 4.83 sec)
+[2023.02.08-13.40.15:799][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.02.08-13.40.15:824][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.02.08-13.40.15:846][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.02.08-13.40.15:854][766]AssetCheck: New page: Asset Save: T_TrackPart_N
+[2023.02.08-13.40.15:854][766]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_TrackPart_N.T_TrackPart_N
+[2023.02.08-13.40.21:142][921]LogContentBrowser: Deferred new asset file creation: MM_PBRMaster_Inst
+[2023.02.08-13.40.21:221][921]LogContentBrowser: Creating deferred item: MM_PBRMaster_Inst
+[2023.02.08-13.40.21:238][922]LogContentBrowser: Renaming the item being created (Deferred Item: MM_PBRMaster_Inst).
+[2023.02.08-13.40.23:843][ 42]LogContentBrowser: Attempting asset rename: MM_PBRMaster_Inst -> MI_TrackPart
+[2023.02.08-13.40.24:076][ 42]LogContentBrowser: End creating deferred item MM_PBRMaster_Inst
+[2023.02.08-13.40.26:922][127]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_TrackPart.MI_TrackPart
+[2023.02.08-13.40.26:926][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-13.40.27:452][127]LogViewport: Scene viewport resized to 421x741, mode Windowed.
+[2023.02.08-13.40.37:209][376]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineSky/T_Sky_Stars.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineSky/T_Sky_Stars.uasset' is outside repository at 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS'
+[2023.02.08-13.40.37:209][376]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets' is outside repository at 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS'
+[2023.02.08-13.40.44:522][575]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset' is outside repository at 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS'
+[2023.02.08-13.40.44:522][575]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/Engine_MI_Shaders/T_Specular.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/Engine_MI_Shaders/T_Specular.uasset' is outside repository at 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS'
+[2023.02.08-13.40.45:785][607]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset' is outside repository at 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS'
+[2023.02.08-13.40.50:548][727]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/Engine_MI_Shaders/T_Specular.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/Engine_MI_Shaders/T_Specular.uasset' is outside repository at 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS'
+[2023.02.08-13.40.50:548][727]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineMaterials/T_SphereShadow_RGBA_5-15-30-60deg.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineMaterials/T_SphereShadow_RGBA_5-15-30-60deg.uasset' is outside repository at 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS'
+[2023.02.08-13.40.51:567][754]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset' is outside repository at 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS'
+[2023.02.08-13.40.56:159][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.08-13.40.56:377][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_TrackPart" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Materials/MI_TrackPart.uasset" SILENT=true
+[2023.02.08-13.40.56:401][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.02.08-13.40.56:434][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.08-13.40.56:460][872]LogSavePackage: Moving output files for package: /Game/Materials/MI_TrackPart
+[2023.02.08-13.40.56:460][872]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/MI_TrackPartF23617054DE22C578B2FCEAAB2B857EA.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Materials/MI_TrackPart.uasset'
+[2023.02.08-13.40.56:898][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 739 ms (total: 5.57 sec)
+[2023.02.08-13.40.56:906][872]AssetCheck: New page: Asset Save: MI_TrackPart
+[2023.02.08-13.40.56:906][872]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/MI_TrackPart.MI_TrackPart
+[2023.02.08-13.40.57:504][878]LogSlate: Window 'MI_TrackPart' being destroyed
+[2023.02.08-13.40.57:730][878]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-13.40.57:730][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.41.04:245][987]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.41.15:685][461]LogEditorViewport: Clicking Background
+[2023.02.08-13.41.22:483][666]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.02.08-13.41.22:545][666]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.02.08-13.41.22:567][667]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.02.08-13.41.28:681][941]LogContentBrowser: Attempting asset rename: NewMaterial -> MM_RegularPBR
+[2023.02.08-13.41.29:018][941]LogContentBrowser: End creating deferred item NewMaterial
+[2023.02.08-13.41.30:664][988]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/MM_RegularPBR.MM_RegularPBR
+[2023.02.08-13.41.30:683][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-13.41.31:412][988]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-13.41.31:412][988]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-13.41.31:412][988]MaterialEditorStats: Shader Count: 0
+[2023.02.08-13.41.31:442][988]LogSlate: Took 0.016866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.08-13.41.31:450][988]LogViewport: Scene viewport resized to 532x530, mode Windowed.
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: ================================================
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Total job queries 279, among them cache hits 29 (10.39%)
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Tracking 247 distinct input hashes that result in 162 distinct outputs (65.59%)
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: RAM used: 1.74 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Shaders Compiled: 75
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Jobs assigned 78, completed 75 (96.15%)
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Average time worker was idle: 344.12 s
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Time job spent in pending queue: average 3.61 s, longest 7.71 s
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 4.05 s
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Job life time (pending + execution): average 4.71 s, max 8.74
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.16 s
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Average processing rate: 5.70 jobs/sec
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Total thread time: 47.03 s
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Total thread preprocess time: 2.43 s
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Percentage time preprocessing: 5.16%
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Effective parallelization: 3.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   15 times, average 0.93 sec, max 1.73 sec, min 0.78 sec)
+[2023.02.08-13.41.35:642][ 68]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   15 times, average 0.81 sec, max 0.91 sec, min 0.77 sec)
+[2023.02.08-13.41.35:643][ 68]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.77 sec, max 0.81 sec, min 0.70 sec)
+[2023.02.08-13.41.35:643][ 68]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   13 times, average 0.70 sec, max 0.74 sec, min 0.64 sec)
+[2023.02.08-13.41.35:643][ 68]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   14 times, average 0.58 sec, max 1.34 sec, min 0.43 sec)
+[2023.02.08-13.41.35:643][ 68]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.08-13.41.35:643][ 68]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.68% of total time (compiled   15 times, average 0.93 sec, max 1.73 sec, min 0.78 sec)
+[2023.02.08-13.41.35:643][ 68]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.90% of total time (compiled   15 times, average 0.81 sec, max 0.91 sec, min 0.77 sec)
+[2023.02.08-13.41.35:643][ 68]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.40% of total time (compiled   13 times, average 0.70 sec, max 0.74 sec, min 0.64 sec)
+[2023.02.08-13.41.35:643][ 68]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 17.23% of total time (compiled   14 times, average 0.58 sec, max 1.34 sec, min 0.43 sec)
+[2023.02.08-13.41.35:643][ 68]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.89% of total time (compiled    3 times, average 0.77 sec, max 0.81 sec, min 0.70 sec)
+[2023.02.08-13.41.35:643][ 68]LogShaderCompilers: Display: ================================================
+[2023.02.08-13.41.36:493][ 80]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.02.08-13.41.36:493][ 80]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.08-13.41.36:493][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-13.41.36:493][ 80]MaterialEditorStats: Shader Count: 3
+[2023.02.08-13.41.36:619][ 83]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.02.08-13.41.36:620][ 83]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.02.08-13.41.36:620][ 83]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.08-13.41.36:620][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.08-13.41.36:620][ 83]MaterialEditorStats: Shader Count: 4
+[2023.02.08-13.41.43:965][228]LogViewport: Scene viewport resized to 537x530, mode Windowed.
+[2023.02.08-13.41.44:031][228]LogViewport: Scene viewport resized to 585x530, mode Windowed.
+[2023.02.08-13.41.44:111][228]LogViewport: Scene viewport resized to 629x530, mode Windowed.
+[2023.02.08-13.41.44:178][228]LogViewport: Scene viewport resized to 641x530, mode Windowed.
+[2023.02.08-13.41.44:244][228]LogViewport: Scene viewport resized to 662x530, mode Windowed.
+[2023.02.08-13.41.44:309][228]LogViewport: Scene viewport resized to 675x530, mode Windowed.
+[2023.02.08-13.41.44:400][228]LogViewport: Scene viewport resized to 676x530, mode Windowed.
+[2023.02.08-13.41.44:463][228]LogViewport: Scene viewport resized to 680x530, mode Windowed.
+[2023.02.08-13.41.44:529][228]LogViewport: Scene viewport resized to 696x530, mode Windowed.
+[2023.02.08-13.41.44:589][228]LogViewport: Scene viewport resized to 722x530, mode Windowed.
+[2023.02.08-13.41.44:655][228]LogViewport: Scene viewport resized to 730x530, mode Windowed.
+[2023.02.08-13.41.44:712][228]LogViewport: Scene viewport resized to 731x530, mode Windowed.
+[2023.02.08-13.41.44:771][228]LogViewport: Scene viewport resized to 741x530, mode Windowed.
+[2023.02.08-13.41.44:843][228]LogViewport: Scene viewport resized to 749x530, mode Windowed.
+[2023.02.08-13.41.45:158][228]LogViewport: Scene viewport resized to 750x530, mode Windowed.
+[2023.02.08-13.41.45:267][228]LogViewport: Scene viewport resized to 751x530, mode Windowed.
+[2023.02.08-13.41.45:340][228]LogViewport: Scene viewport resized to 753x530, mode Windowed.
+[2023.02.08-13.41.45:414][228]LogViewport: Scene viewport resized to 754x530, mode Windowed.
+[2023.02.08-13.41.45:481][228]LogViewport: Scene viewport resized to 755x530, mode Windowed.
+[2023.02.08-13.41.46:881][250]LogSlate: Window 'MM_RegularPBR' being destroyed
+[2023.02.08-13.41.46:919][250]LogSlate: Window 'MM_RegularPBR' being destroyed
+[2023.02.08-13.41.46:968][250]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-13.41.46:968][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.41.53:652][467]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_TrackPart.MI_TrackPart
+[2023.02.08-13.41.53:656][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-13.41.54:441][467]LogViewport: Scene viewport resized to 594x747, mode Windowed.
+[2023.02.08-13.41.58:707][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.08-13.41.58:913][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_TrackPart" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Materials/MI_TrackPart.uasset" SILENT=true
+[2023.02.08-13.41.58:942][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.02.08-13.41.58:977][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.08-13.41.59:004][571]LogSavePackage: Moving output files for package: /Game/Materials/MI_TrackPart
+[2023.02.08-13.41.59:011][571]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/MI_TrackPart7807E7604B05B2B04408BEA64816A8E0.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Materials/MI_TrackPart.uasset'
+[2023.02.08-13.41.59:051][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 344 ms (total: 5.91 sec)
+[2023.02.08-13.41.59:060][571]AssetCheck: New page: Asset Save: MI_TrackPart
+[2023.02.08-13.41.59:060][571]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/MI_TrackPart.MI_TrackPart
+[2023.02.08-13.42.00:469][597]LogSlate: Window 'MI_TrackPart' being destroyed
+[2023.02.08-13.42.00:622][597]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-13.42.00:622][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.42.01:977][644]LogEditorViewport: Clicking Background
+[2023.02.08-13.42.10:268][964]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.42.10:431][966]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.42.11:716][  2]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.08-13.42.11:798][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-13.42.11:798][  2]PIE: New page: PIE session: BatsGym (8 Feb 2023, 15:42:11)
+[2023.02.08-13.42.11:798][  2]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.42.11:913][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114934s)
+[2023.02.08-13.42.11:913][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.115012s)
+[2023.02.08-13.42.11:914][  2]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-13.42.11:915][  2]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.08-13.42.11:915][  2]LogPlayLevel: PIE: World Init took: (0.001820s)
+[2023.02.08-13.42.11:943][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.02.08-13.42.11:949][  2]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.02.08-13.42.11:949][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-13.42.11:949][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-13.42.11:949][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-13.42.11:949][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-13.42.11:949][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-13.42.11:949][  2]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.08-13.42.11:949][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-13.42.11:949][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-13.42.11:950][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-13.42.11:951][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-13.42.11:951][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-13.42.11:956][  2]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.08-13.42.12:089][  2]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.02.08-13.42.12:090][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-13.42.12:090][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-13.42.12:090][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-13.42.12:091][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.02.08-13.42.12:091][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.02.08-13.42.12:096][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.02.08-13.42.12:096][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.02.08-13.42.12:096][  2]LogInit: FAudioDevice initialized.
+[2023.02.08-13.42.12:096][  2]LogAudio: Display: Audio Device (ID: 16) registered with world 'BatsGym'.
+[2023.02.08-13.42.12:104][  2]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.08-13.42.12:108][  2]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 0) at 2023.02.08-14.42.12
+[2023.02.08-13.42.12:108][  2]LogWorld: Bringing up level for play took: 0.004122
+[2023.02.08-13.42.12:114][  2]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.02.08-13.42.12:124][  2]PIE: Server logged in
+[2023.02.08-13.42.12:126][  2]PIE: Play in editor total start time 0,328 seconds.
+[2023.02.08-13.42.19:093][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.42.19:093][ 63]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.42.19:094][ 63]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-13.42.19:094][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.42.19:325][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-13.42.19:330][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.42.19:352][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.42.19:353][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.02.08-13.42.19:357][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.02.08-13.42.19:382][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.02.08-13.42.19:632][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.02.08-13.42.36:194][620]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.08-13.42.36:368][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-13.42.36:368][620]PIE: New page: PIE session: BatsGym (8 Feb 2023, 15:42:36)
+[2023.02.08-13.42.36:368][620]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.42.36:478][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110288s)
+[2023.02.08-13.42.36:479][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.110364s)
+[2023.02.08-13.42.36:479][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-13.42.36:480][620]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.08-13.42.36:481][620]LogPlayLevel: PIE: World Init took: (0.002401s)
+[2023.02.08-13.42.36:509][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.02.08-13.42.36:510][620]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.02.08-13.42.36:510][620]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-13.42.36:510][620]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-13.42.36:511][620]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-13.42.36:511][620]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-13.42.36:511][620]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-13.42.36:511][620]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.08-13.42.36:511][620]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-13.42.36:511][620]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-13.42.36:511][620]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-13.42.36:511][620]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-13.42.36:512][620]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-13.42.36:517][620]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.08-13.42.36:657][620]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.02.08-13.42.36:658][620]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-13.42.36:658][620]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-13.42.36:658][620]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-13.42.36:659][620]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.02.08-13.42.36:659][620]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.02.08-13.42.36:665][620]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.02.08-13.42.36:665][620]LogInit: FAudioDevice initialized.
+[2023.02.08-13.42.36:665][620]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.02.08-13.42.36:665][620]LogAudio: Display: Audio Device (ID: 17) registered with world 'BatsGym'.
+[2023.02.08-13.42.36:672][620]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.08-13.42.36:676][620]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 0) at 2023.02.08-14.42.36
+[2023.02.08-13.42.36:677][620]LogWorld: Bringing up level for play took: 0.004251
+[2023.02.08-13.42.36:682][620]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.02.08-13.42.36:691][620]PIE: Server logged in
+[2023.02.08-13.42.36:693][620]PIE: Play in editor total start time 0,325 seconds.
+[2023.02.08-13.42.42:437][661]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-80.53 Y=63.25 Z=0.00 Location: X=0.00 Y=0.00 Z=-31.85 Normal: X=0.55 Y=0.83 Z=0.00 PenetrationDepth:56.459 Actor:BP_NPC_Bat_C_3 Component:StaticMesh2 BoneName:None (0 other events since notify)
+[2023.02.08-13.42.51:733][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.42.51:733][716]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.42.51:734][716]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-13.42.51:734][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.42.52:003][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-13.42.52:008][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.42.52:031][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.42.52:032][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.02.08-13.42.52:037][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.02.08-13.42.52:077][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.02.08-13.42.52:345][717]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.02.08-13.43.08:993][ 33]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.08-13.43.09:174][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-13.43.09:174][ 33]PIE: New page: PIE session: BatsGym (8 Feb 2023, 15:43:09)
+[2023.02.08-13.43.09:174][ 33]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.43.09:286][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111320s)
+[2023.02.08-13.43.09:286][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.111395s)
+[2023.02.08-13.43.09:286][ 33]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-13.43.09:287][ 33]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.08-13.43.09:288][ 33]LogPlayLevel: PIE: World Init took: (0.001825s)
+[2023.02.08-13.43.09:316][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.02.08-13.43.09:318][ 33]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.02.08-13.43.09:318][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-13.43.09:318][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-13.43.09:318][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-13.43.09:318][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-13.43.09:318][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-13.43.09:318][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.08-13.43.09:318][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-13.43.09:318][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-13.43.09:318][ 33]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-13.43.09:319][ 33]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-13.43.09:319][ 33]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-13.43.09:325][ 33]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.08-13.43.09:463][ 33]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.02.08-13.43.09:464][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-13.43.09:465][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-13.43.09:465][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-13.43.09:466][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.02.08-13.43.09:466][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.02.08-13.43.09:472][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.02.08-13.43.09:472][ 33]LogInit: FAudioDevice initialized.
+[2023.02.08-13.43.09:472][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.02.08-13.43.09:472][ 33]LogAudio: Display: Audio Device (ID: 18) registered with world 'BatsGym'.
+[2023.02.08-13.43.09:480][ 33]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.08-13.43.09:485][ 33]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 0) at 2023.02.08-14.43.09
+[2023.02.08-13.43.09:485][ 33]LogWorld: Bringing up level for play took: 0.004347
+[2023.02.08-13.43.09:491][ 33]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.02.08-13.43.09:501][ 33]PIE: Server logged in
+[2023.02.08-13.43.09:503][ 33]PIE: Play in editor total start time 0,329 seconds.
+[2023.02.08-13.43.42:834][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.43.42:834][294]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.43.42:834][294]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-13.43.42:835][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.43.42:858][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-13.43.42:863][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.43.42:887][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.43.42:887][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.02.08-13.43.42:892][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.02.08-13.43.42:926][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.08-13.43.43:071][295]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.02.08-13.43.45:755][401]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.45:899][407]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.46:044][413]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.46:093][415]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.46:469][429]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.48:229][492]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.48:544][502]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.49:106][517]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.49:353][524]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.49:527][529]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.49:594][531]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.49:775][534]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.50:214][546]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.51:177][571]Cmd: DUPLICATE
+[2023.02.08-13.43.51:177][571]Cmd: ACTOR DUPLICATE
+[2023.02.08-13.43.51:315][572]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.52:641][614]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.53:050][626]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.53:524][638]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.58:484][842]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.43.59:130][869]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.44.00:028][913]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.44.00:187][920]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.44.00:609][940]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.44.01:678][989]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.44.02:168][  6]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/FirstPerson/Maps/BatsGym.BatsGym:PersistentLevel.RecastNavMesh-Default).
+[2023.02.08-13.44.04:760][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.08-13.44.04:931][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-13.44.04:931][ 85]PIE: New page: PIE session: BatsGym (8 Feb 2023, 15:44:04)
+[2023.02.08-13.44.04:931][ 85]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.44.05:043][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111482s)
+[2023.02.08-13.44.05:043][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.111556s)
+[2023.02.08-13.44.05:043][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-13.44.05:044][ 85]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.08-13.44.05:045][ 85]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2023.02.08-13.44.05:068][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.08-13.44.05:071][ 85]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.02.08-13.44.05:071][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-13.44.05:071][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-13.44.05:071][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-13.44.05:071][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-13.44.05:071][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-13.44.05:071][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.08-13.44.05:071][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-13.44.05:071][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-13.44.05:071][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-13.44.05:072][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-13.44.05:072][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-13.44.05:076][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.08-13.44.05:202][ 85]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.02.08-13.44.05:203][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-13.44.05:203][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-13.44.05:203][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-13.44.05:205][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.02.08-13.44.05:205][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.02.08-13.44.05:210][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.02.08-13.44.05:210][ 85]LogInit: FAudioDevice initialized.
+[2023.02.08-13.44.05:210][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.02.08-13.44.05:210][ 85]LogAudio: Display: Audio Device (ID: 19) registered with world 'BatsGym'.
+[2023.02.08-13.44.05:217][ 85]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.08-13.44.05:221][ 85]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 0) at 2023.02.08-14.44.05
+[2023.02.08-13.44.05:222][ 85]LogWorld: Bringing up level for play took: 0.004097
+[2023.02.08-13.44.05:227][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.02.08-13.44.05:236][ 85]PIE: Server logged in
+[2023.02.08-13.44.05:237][ 85]PIE: Play in editor total start time 0,307 seconds.
+[2023.02.08-13.44.39:846][491]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-51.27 Y=212.87 Z=0.00 Location: X=421.60 Y=-802.88 Z=-31.85 Normal: X=-0.81 Y=0.27 Z=-0.51 PenetrationDepth:3.421 Actor:BP_NPC_Bat_C_27 Component:StaticMesh BoneName:None (0 other events since notify)
+[2023.02.08-13.44.59:803][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.44.59:804][344]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.44.59:804][344]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-13.44.59:804][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.44.59:834][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-13.44.59:838][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.44.59:860][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.08-13.44.59:860][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.02.08-13.44.59:864][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.02.08-13.44.59:896][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.44.59:901][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.08-13.45.00:459][345]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.02.08-13.45.01:686][390]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.08-13.45.01:737][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-13.45.01:737][390]PIE: New page: PIE session: BatsGym (8 Feb 2023, 15:45:01)
+[2023.02.08-13.45.01:737][390]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.45.01:851][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114009s)
+[2023.02.08-13.45.01:851][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.114084s)
+[2023.02.08-13.45.01:852][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-13.45.01:852][390]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.08-13.45.01:853][390]LogPlayLevel: PIE: World Init took: (0.001724s)
+[2023.02.08-13.45.01:876][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.08-13.45.01:877][390]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.02.08-13.45.01:877][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-13.45.01:877][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-13.45.01:877][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-13.45.01:877][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-13.45.01:878][390]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-13.45.01:878][390]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.08-13.45.01:878][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-13.45.01:878][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-13.45.01:878][390]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-13.45.01:878][390]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-13.45.01:878][390]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-13.45.01:884][390]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.08-13.45.02:009][390]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.02.08-13.45.02:010][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-13.45.02:010][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-13.45.02:010][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-13.45.02:011][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.02.08-13.45.02:011][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.02.08-13.45.02:017][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.02.08-13.45.02:017][390]LogInit: FAudioDevice initialized.
+[2023.02.08-13.45.02:017][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.02.08-13.45.02:017][390]LogAudio: Display: Audio Device (ID: 20) registered with world 'BatsGym'.
+[2023.02.08-13.45.02:024][390]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.08-13.45.02:028][390]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 0) at 2023.02.08-14.45.02
+[2023.02.08-13.45.02:029][390]LogWorld: Bringing up level for play took: 0.004092
+[2023.02.08-13.45.02:034][390]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.02.08-13.45.02:042][390]PIE: Server logged in
+[2023.02.08-13.45.02:044][390]PIE: Play in editor total start time 0,307 seconds.
+[2023.02.08-13.45.15:121][869]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=533.51 Y=-274.54 Z=0.00 Location: X=-116.58 Y=553.36 Z=-33.62 Normal: X=-0.82 Y=0.30 Z=-0.49 PenetrationDepth:7.267 Actor:BP_NPC_Bat_C_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2023.02.08-13.46.08:324][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.46.08:324][ 48]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.46.08:324][ 48]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-13.46.08:325][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.46.08:359][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-13.46.08:364][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.46.08:385][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.46.08:386][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.02.08-13.46.08:390][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.02.08-13.46.08:427][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.08-13.46.08:950][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.02.08-13.48.46:051][948]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.48.46:104][949]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.48.46:141][950]LogTexture: Display: Building textures: /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-13.48.46:143][950]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.48.46:219][951]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.48.49:380][ 30]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.08-13.48.49:531][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-13.48.49:531][ 30]PIE: New page: PIE session: BatsGym (8 Feb 2023, 15:48:49)
+[2023.02.08-13.48.49:531][ 30]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.48.49:642][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111611s)
+[2023.02.08-13.48.49:642][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.111689s)
+[2023.02.08-13.48.49:642][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-13.48.49:643][ 30]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.08-13.48.49:644][ 30]LogPlayLevel: PIE: World Init took: (0.001789s)
+[2023.02.08-13.48.49:667][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.02.08-13.48.49:671][ 30]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.02.08-13.48.49:671][ 30]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-13.48.49:671][ 30]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-13.48.49:671][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-13.48.49:672][ 30]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-13.48.49:672][ 30]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-13.48.49:672][ 30]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.08-13.48.49:672][ 30]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-13.48.49:672][ 30]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-13.48.49:672][ 30]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-13.48.49:672][ 30]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-13.48.49:672][ 30]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-13.48.49:678][ 30]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.08-13.48.49:805][ 30]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.02.08-13.48.49:806][ 30]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-13.48.49:806][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-13.48.49:806][ 30]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-13.48.49:807][ 30]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.02.08-13.48.49:807][ 30]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.02.08-13.48.49:812][ 30]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.02.08-13.48.49:812][ 30]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.02.08-13.48.49:812][ 30]LogInit: FAudioDevice initialized.
+[2023.02.08-13.48.49:812][ 30]LogAudio: Display: Audio Device (ID: 21) registered with world 'BatsGym'.
+[2023.02.08-13.48.49:820][ 30]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.08-13.48.49:824][ 30]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 0) at 2023.02.08-14.48.49
+[2023.02.08-13.48.49:825][ 30]LogWorld: Bringing up level for play took: 0.004152
+[2023.02.08-13.48.49:831][ 30]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.02.08-13.48.49:840][ 30]PIE: Server logged in
+[2023.02.08-13.48.49:841][ 30]PIE: Play in editor total start time 0,311 seconds.
+[2023.02.08-13.49.13:494][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.49.13:494][966]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.49.13:495][966]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-13.49.13:496][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.49.13:534][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-13.49.13:539][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.49.13:564][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.08-13.49.13:564][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.02.08-13.49.13:569][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.02.08-13.49.13:587][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.49.13:594][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.08-13.49.13:759][967]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.02.08-13.51.20:054][337]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.51.20:107][338]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.51.20:145][339]LogTexture: Display: Building textures: /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-13.51.20:149][339]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.51.20:277][340]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.51.40:272][159]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.51.40:324][160]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.51.40:360][161]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.51.40:361][161]LogTexture: Display: Building textures: /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-13.51.40:436][162]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.52.07:946][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.02.08-13.52.09:671][332]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/BatsGym_Auto7
+[2023.02.08-13.52.09:671][332]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/BatsGym_Auto7DB6E00434858C4905F3AE7BEADB88429.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/FirstPerson/Maps/BatsGym_Auto7.umap'
+[2023.02.08-13.52.09:700][332]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/BatsGym' took 1.778
+[2023.02.08-13.52.09:700][332]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.778
+[2023.02.08-13.52.09:701][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_TrackPart_ORM] ([1] browsable assets)...
+[2023.02.08-13.52.09:707][332]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM]
+[2023.02.08-13.52.09:707][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_TrackPart_ORM]
+[2023.02.08-13.52.09:806][332]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/T_TrackPart_ORM_Auto7
+[2023.02.08-13.52.09:806][332]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/T_TrackPart_ORM_Auto74DBE782D475F90CFAD8B4FA59B97D6B0.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/Textures/T_TrackPart_ORM_Auto7.uasset'
+[2023.02.08-13.52.09:815][332]LogFileHelpers: Auto-saving content packages took 0.115
+[2023.02.08-13.52.12:437][392]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.52.12:484][393]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.52.12:518][394]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.52.12:519][394]LogTexture: Display: Building textures: /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-13.52.12:658][395]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.52.15:260][468]LogEditorViewport: Clicking Background
+[2023.02.08-13.52.39:197][583]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.08-13.52.39:678][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-13.52.39:678][583]PIE: New page: PIE session: BatsGym (8 Feb 2023, 15:52:39)
+[2023.02.08-13.52.39:680][583]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.52.39:830][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151017s)
+[2023.02.08-13.52.39:830][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.151111s)
+[2023.02.08-13.52.39:830][583]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-13.52.39:831][583]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.08-13.52.39:832][583]LogPlayLevel: PIE: World Init took: (0.002433s)
+[2023.02.08-13.52.39:871][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.02.08-13.52.39:878][583]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.02.08-13.52.39:879][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-13.52.39:879][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-13.52.39:879][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-13.52.39:879][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-13.52.39:879][583]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-13.52.39:879][583]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.08-13.52.39:879][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-13.52.39:879][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-13.52.39:880][583]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-13.52.39:880][583]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-13.52.39:880][583]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-13.52.39:886][583]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.08-13.52.40:020][583]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.02.08-13.52.40:021][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-13.52.40:021][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-13.52.40:021][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-13.52.40:023][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.02.08-13.52.40:023][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.02.08-13.52.40:028][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.02.08-13.52.40:028][583]LogInit: FAudioDevice initialized.
+[2023.02.08-13.52.40:028][583]LogAudio: Display: Audio Device (ID: 22) registered with world 'BatsGym'.
+[2023.02.08-13.52.40:028][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.02.08-13.52.40:035][583]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.08-13.52.40:039][583]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 0) at 2023.02.08-14.52.40
+[2023.02.08-13.52.40:040][583]LogWorld: Bringing up level for play took: 0.004385
+[2023.02.08-13.52.40:045][583]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.02.08-13.52.40:054][583]PIE: Server logged in
+[2023.02.08-13.52.40:055][583]PIE: Play in editor total start time 0,377 seconds.
+[2023.02.08-13.52.49:673][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.52.49:673][924]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.52.49:673][924]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-13.52.49:675][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.52.49:686][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-13.52.49:691][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.52.49:715][924]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.08-13.52.49:715][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.02.08-13.52.49:719][924]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.02.08-13.52.49:760][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.52.49:765][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.02.08-13.52.49:890][925]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.02.08-13.54.26:823][ 90]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.54.26:870][ 91]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.54.26:904][ 92]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.54.26:905][ 92]LogTexture: Display: Building textures: /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-13.54.26:968][ 93]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.55.08:832][665]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.55.08:907][666]LogTexture: Display: Building textures: /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-13.55.08:942][666]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-13.55.08:946][666]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.55.09:051][667]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-13.56.04:513][681]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM
+[2023.02.08-13.56.04:975][681]LogViewport: Scene viewport resized to 1191x744, mode Windowed.
+[2023.02.08-13.56.07:463][740]LogTexture: Display: Building textures: /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-13.56.07:527][741]LogShaderCompilers: Display: ================================================
+[2023.02.08-13.56.07:527][741]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.08-13.56.07:527][741]LogShaderCompilers: Display: Total job queries 286, among them cache hits 36 (12.59%)
+[2023.02.08-13.56.07:527][741]LogShaderCompilers: Display: Tracking 250 distinct input hashes that result in 163 distinct outputs (65.20%)
+[2023.02.08-13.56.07:527][741]LogShaderCompilers: Display: RAM used: 1.76 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.02.08-13.56.07:527][741]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.08-13.56.07:527][741]LogShaderCompilers: Display: Shaders Compiled: 78
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Jobs assigned 78, completed 78 (100.00%)
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Average time worker was idle: 344.12 s
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Time job spent in pending queue: average 3.61 s, longest 7.71 s
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 4.97 s
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Job life time (pending + execution): average 4.71 s, max 8.74
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.10 s
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Average processing rate: 5.53 jobs/sec
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Total thread time: 53.18 s
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Total thread preprocess time: 3.17 s
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Percentage time preprocessing: 5.95%
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Effective parallelization: 3.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 1.01 sec, max 2.27 sec, min 0.78 sec)
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 0.89 sec, max 2.03 sec, min 0.77 sec)
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   14 times, average 0.78 sec, max 1.85 sec, min 0.64 sec)
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.77 sec, max 0.81 sec, min 0.70 sec)
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   14 times, average 0.58 sec, max 1.34 sec, min 0.43 sec)
+[2023.02.08-13.56.07:528][741]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.08-13.56.07:529][741]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.52% of total time (compiled   16 times, average 1.01 sec, max 2.27 sec, min 0.78 sec)
+[2023.02.08-13.56.07:529][741]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.73% of total time (compiled   16 times, average 0.89 sec, max 2.03 sec, min 0.77 sec)
+[2023.02.08-13.56.07:529][741]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.63% of total time (compiled   14 times, average 0.78 sec, max 1.85 sec, min 0.64 sec)
+[2023.02.08-13.56.07:529][741]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 15.23% of total time (compiled   14 times, average 0.58 sec, max 1.34 sec, min 0.43 sec)
+[2023.02.08-13.56.07:529][741]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.32% of total time (compiled    3 times, average 0.77 sec, max 0.81 sec, min 0.70 sec)
+[2023.02.08-13.56.07:529][741]LogShaderCompilers: Display: ================================================
+[2023.02.08-13.56.08:787][777]LogSlate: Window 'T_TrackPart_ORM' being destroyed
+[2023.02.08-13.56.08:828][777]LogSlate: Window 'T_TrackPart_ORM' being destroyed
+[2023.02.08-13.56.22:193][339]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.08-13.56.22:639][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-13.56.22:639][339]PIE: New page: PIE session: BatsGym (8 Feb 2023, 15:56:22)
+[2023.02.08-13.56.22:640][339]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.56.22:760][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119763s)
+[2023.02.08-13.56.22:760][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.119851s)
+[2023.02.08-13.56.22:760][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-13.56.22:761][339]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.08-13.56.22:762][339]LogPlayLevel: PIE: World Init took: (0.002005s)
+[2023.02.08-13.56.22:793][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.02.08-13.56.22:800][339]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.02.08-13.56.22:800][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-13.56.22:800][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-13.56.22:800][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-13.56.22:800][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-13.56.22:800][339]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-13.56.22:800][339]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.08-13.56.22:800][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-13.56.22:800][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-13.56.22:801][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-13.56.22:802][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-13.56.22:802][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-13.56.22:808][339]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.08-13.56.22:965][339]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.02.08-13.56.22:966][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-13.56.22:966][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-13.56.22:966][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-13.56.22:969][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.02.08-13.56.22:969][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.02.08-13.56.22:973][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.02.08-13.56.22:973][339]LogInit: FAudioDevice initialized.
+[2023.02.08-13.56.22:973][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.02.08-13.56.22:973][339]LogAudio: Display: Audio Device (ID: 23) registered with world 'BatsGym'.
+[2023.02.08-13.56.22:981][339]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.08-13.56.22:986][339]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 0) at 2023.02.08-14.56.22
+[2023.02.08-13.56.22:986][339]LogWorld: Bringing up level for play took: 0.005374
+[2023.02.08-13.56.22:992][339]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.02.08-13.56.23:002][339]PIE: Server logged in
+[2023.02.08-13.56.23:004][339]PIE: Play in editor total start time 0,365 seconds.
+[2023.02.08-13.56.46:594][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.56.46:594][321]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-13.56.46:595][321]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-13.56.46:595][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.56.46:626][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-13.56.46:631][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-13.56.46:654][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.08-13.56.46:655][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.02.08-13.56.46:659][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.02.08-13.56.46:682][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-13.56.46:687][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.02.08-13.56.47:186][322]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.02.08-14.02.44:832][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.02.08-14.02.44:834][422]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/BatsGym' took 0.028
+[2023.02.08-14.02.44:835][422]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/T_TrackPart_ORM] ([1] browsable assets)...
+[2023.02.08-14.02.44:845][422]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM]
+[2023.02.08-14.02.44:846][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/T_TrackPart_ORM]
+[2023.02.08-14.02.45:212][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/T_TrackPart_ORM_Auto8
+[2023.02.08-14.02.45:212][422]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/T_TrackPart_ORM_Auto8F2EE2C1F4BA11755651050941702345A.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/Autosaves/Game/Textures/T_TrackPart_ORM_Auto8.uasset'
+[2023.02.08-14.02.45:219][422]LogFileHelpers: Auto-saving content packages took 0.385
+[2023.02.08-14.03.09:804][778]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-14.03.09:860][779]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-14.03.09:912][780]LogTexture: Display: Building textures: /Game/Textures/T_TrackPart_D.T_TrackPart_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-14.03.09:931][780]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-14.03.10:012][781]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-14.03.13:196][854]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-14.03.13:290][855]LogInterchangeEngine: [Pending] Importing
+[2023.02.08-14.03.13:295][855]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-14.03.13:297][855]LogTexture: Display: Building textures: /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2023.02.08-14.03.13:416][856]LogInterchangeEngine: [Success] Import Done
+[2023.02.08-14.03.19:402][ 49]LogEditorViewport: Clicking Background
+[2023.02.08-14.04.36:909][605]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.08-14.04.37:382][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.08-14.04.37:382][605]PIE: New page: PIE session: BatsGym (8 Feb 2023, 16:04:37)
+[2023.02.08-14.04.37:382][605]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-14.04.37:509][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126464s)
+[2023.02.08-14.04.37:509][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/BatsGym.BatsGym to /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym (0.126546s)
+[2023.02.08-14.04.37:509][605]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.08-14.04.37:510][605]LogAIModule: Creating AISystem for world BatsGym
+[2023.02.08-14.04.37:511][605]LogPlayLevel: PIE: World Init took: (0.001820s)
+[2023.02.08-14.04.37:535][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.02.08-14.04.37:540][605]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.02.08-14.04.37:540][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.08-14.04.37:541][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.08-14.04.37:541][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.08-14.04.37:541][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.08-14.04.37:541][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.08-14.04.37:541][605]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.08-14.04.37:541][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.08-14.04.37:541][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.08-14.04.37:542][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.08-14.04.37:542][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.08-14.04.37:542][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.08-14.04.37:547][605]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.08-14.04.37:708][605]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.02.08-14.04.37:708][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.08-14.04.37:708][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.08-14.04.37:708][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.08-14.04.37:711][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.02.08-14.04.37:711][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.02.08-14.04.37:715][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.02.08-14.04.37:715][605]LogInit: FAudioDevice initialized.
+[2023.02.08-14.04.37:716][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.02.08-14.04.37:716][605]LogAudio: Display: Audio Device (ID: 24) registered with world 'BatsGym'.
+[2023.02.08-14.04.37:724][605]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.08-14.04.37:730][605]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_BatsGym.BatsGym up for play (max tick rate 0) at 2023.02.08-15.04.37
+[2023.02.08-14.04.37:731][605]LogWorld: Bringing up level for play took: 0.005882
+[2023.02.08-14.04.37:738][605]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.02.08-14.04.37:748][605]PIE: Server logged in
+[2023.02.08-14.04.37:750][605]PIE: Play in editor total start time 0,368 seconds.
+[2023.02.08-14.05.18:595][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-14.05.18:595][103]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_BatsGym
+[2023.02.08-14.05.18:595][103]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-14.05.18:596][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-14.05.18:629][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.08-14.05.18:634][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-14.05.18:659][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.08-14.05.18:659][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.02.08-14.05.18:663][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.02.08-14.05.18:701][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.08-14.05.18:708][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.02.08-14.05.19:181][104]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.02.08-14.05.54:441][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.02.08-14.06.02:851][506]LogSlate: Window 'Save Content' being destroyed
+[2023.02.08-14.06.10:243][791]LogContentBrowser: Attempting asset rename: TrackPart -> GEO_TrackPart
+[2023.02.08-14.06.11:606][791]LogMetaData: Removing '/Game/Meshes/GEO_TrackPart.GEO_TrackPart' ref from Metadata '/Game/Meshes/TrackPart.PackageMetaData'
+[2023.02.08-14.06.11:615][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.08-14.06.11:673][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/GEO_TrackPart" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Meshes/GEO_TrackPart.uasset" SILENT=true
+[2023.02.08-14.06.11:753][791]LogSavePackage: Moving output files for package: /Game/Meshes/GEO_TrackPart
+[2023.02.08-14.06.11:753][791]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/GEO_TrackPart39140CDC41849289339100ABA4416D00.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Meshes/GEO_TrackPart.uasset'
+[2023.02.08-14.06.11:761][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/TrackPart" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Meshes/TrackPart.uasset" SILENT=true
+[2023.02.08-14.06.11:780][791]LogSavePackage: Moving output files for package: /Game/Meshes/TrackPart
+[2023.02.08-14.06.11:780][791]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/TrackPart2B2DEE04428A5C7CB2FF37B2D76138F5.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Meshes/TrackPart.uasset'
+[2023.02.08-14.06.12:281][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 665 ms (total: 6.58 sec)
+[2023.02.08-14.06.12:496][791]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-14.06.12:496][791]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Meshes/TrackPart.TrackPart
+[2023.02.08-14.06.12:496][791]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/GEO_TrackPart.GEO_TrackPart
+[2023.02.08-14.06.24:322][293]LogContentBrowser: Attempting asset rename: LanternPole -> GEO_LanternPole
+[2023.02.08-14.06.25:917][293]LogMetaData: Removing '/Game/Meshes/GEO_LanternPole.GEO_LanternPole' ref from Metadata '/Game/Meshes/LanternPole.PackageMetaData'
+[2023.02.08-14.06.25:928][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.08-14.06.25:991][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/GEO_LanternPole" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Meshes/GEO_LanternPole.uasset" SILENT=true
+[2023.02.08-14.06.26:081][293]LogSavePackage: Moving output files for package: /Game/Meshes/GEO_LanternPole
+[2023.02.08-14.06.26:081][293]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/GEO_LanternPole14426B1C4C6DE7404383479F45D70628.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Meshes/GEO_LanternPole.uasset'
+[2023.02.08-14.06.26:107][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/LanternPole" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Meshes/LanternPole.uasset" SILENT=true
+[2023.02.08-14.06.26:126][293]LogSavePackage: Moving output files for package: /Game/Meshes/LanternPole
+[2023.02.08-14.06.26:133][293]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/LanternPoleE097F18E4DE7C758CF215B8D9A800AB3.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Meshes/LanternPole.uasset'
+[2023.02.08-14.06.26:584][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 656 ms (total: 7.23 sec)
+[2023.02.08-14.06.27:095][293]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-14.06.27:095][293]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/GEO_LanternPole.GEO_LanternPole
+[2023.02.08-14.06.27:095][293]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Meshes/LanternPole.LanternPole
+[2023.02.08-14.06.31:421][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.08-14.06.31:487][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/GEO_LanternPole" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Meshes/GEO_LanternPole.uasset" SILENT=true
+[2023.02.08-14.06.31:687][440]LogSavePackage: Moving output files for package: /Game/Meshes/GEO_LanternPole
+[2023.02.08-14.06.31:693][440]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/GEO_LanternPoleA4EFDBEC48A369B19B27BFB55B6A187F.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Meshes/GEO_LanternPole.uasset'
+[2023.02.08-14.06.31:739][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 316 ms (total: 7.55 sec)
+[2023.02.08-14.06.31:746][440]AssetCheck: New page: Asset Save: GEO_LanternPole
+[2023.02.08-14.06.31:746][440]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/GEO_LanternPole.GEO_LanternPole
+[2023.02.08-14.06.32:227][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.02.08-14.06.34:323][458]LogSlate: Window 'Save Content' being destroyed
+[2023.02.08-14.06.34:714][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.08-14.06.34:774][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_LanternPole" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Materials/MI_LanternPole.uasset" SILENT=true
+[2023.02.08-14.06.34:797][458]LogSavePackage: Moving output files for package: /Game/Materials/MI_LanternPole
+[2023.02.08-14.06.34:804][458]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/MI_LanternPole890080DF4E4366F50764C9BE32CBC380.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Materials/MI_LanternPole.uasset'
+[2023.02.08-14.06.34:901][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MM_RegularPBR" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Materials/MM_RegularPBR.uasset" SILENT=true
+[2023.02.08-14.06.34:939][458]LogSavePackage: Moving output files for package: /Game/Materials/MM_RegularPBR
+[2023.02.08-14.06.34:939][458]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/MM_RegularPBRF995301C41D516563EBD6EB0A66EF33C.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Materials/MM_RegularPBR.uasset'
+[2023.02.08-14.06.34:947][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_LanternPole_D" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_LanternPole_D.uasset" SILENT=true
+[2023.02.08-14.06.35:016][458]LogSavePackage: Moving output files for package: /Game/Textures/T_LanternPole_D
+[2023.02.08-14.06.35:023][458]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/T_LanternPole_D98F00BC646A4C05AA99B8A92E26AB5D1.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_LanternPole_D.uasset'
+[2023.02.08-14.06.35:048][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_TrackPart_D" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_TrackPart_D.uasset" SILENT=true
+[2023.02.08-14.06.35:161][458]LogSavePackage: Moving output files for package: /Game/Textures/T_TrackPart_D
+[2023.02.08-14.06.35:169][458]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/T_TrackPart_D6D1BE72E421E0106E3F31397FDEF3F27.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_TrackPart_D.uasset'
+[2023.02.08-14.06.35:195][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_TrackPart_ORM" FILE="D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_TrackPart_ORM.uasset" SILENT=true
+[2023.02.08-14.06.35:313][458]LogSavePackage: Moving output files for package: /Game/Textures/T_TrackPart_ORM
+[2023.02.08-14.06.35:320][458]LogSavePackage: Moving 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Saved/T_TrackPart_ORM302D43474976FA9B8C7B76973402EE0C.tmp' to 'D:/school/Year 2/Block C/Cat Gun 9000/BATSWITHLEGS/BatsWithLegs/Content/Textures/T_TrackPart_ORM.uasset'
+[2023.02.08-14.06.35:767][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.05 sec (total: 8.60 sec)
+[2023.02.08-14.06.35:767][458]LogStall: Shutdown...
+[2023.02.08-14.06.35:776][458]LogStall: Shutdown complete.
+[2023.02.08-14.06.36:298][458]LogSlate: Window 'BatsWithLegs - Unreal Editor' being destroyed
+[2023.02.08-14.06.36:692][458]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.08-14.06.36:692][458]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_LanternPole_D.T_LanternPole_D
+[2023.02.08-14.06.36:692][458]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/MI_LanternPole.MI_LanternPole
+[2023.02.08-14.06.36:692][458]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/MM_RegularPBR.MM_RegularPBR
+[2023.02.08-14.06.36:692][458]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_TrackPart_ORM.T_TrackPart_ORM
+[2023.02.08-14.06.36:692][458]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/T_TrackPart_D.T_TrackPart_D
+[2023.02.08-14.06.36:696][459]Cmd: QUIT_EDITOR
+[2023.02.08-14.06.36:696][459]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.08-14.06.36:726][459]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.08-14.06.36:726][459]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.02.08-14.06.36:726][459]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.02.08-14.06.36:728][459]LogWorld: UWorld::CleanupWorld for BatsGym, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-14.06.36:728][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.08-14.06.36:729][459]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.08-14.06.36:732][459]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.08-14.06.36:892][459]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.08-14.06.36:892][459]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.08-14.06.36:892][459]LogAudio: Display: Audio Device unregistered from world 'BatsGym'.
+[2023.02.08-14.06.36:893][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.08-14.06.36:900][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.08-14.06.36:950][459]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.08-14.06.37:009][459]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.08-14.06.37:009][459]LogExit: Preparing to exit.
+[2023.02.08-14.06.37:110][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2023.02.08-14.06.38:025][459]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-14.06.38:026][459]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-14.06.38:026][459]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-14.06.38:027][459]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-14.06.38:027][459]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.08-14.06.38:183][459]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.02.08-14.06.38:199][459]LogExit: Transaction tracking system shut down
+[2023.02.08-14.06.38:327][459]LogExit: Editor shut down
+[2023.02.08-14.06.38:664][459]LogExit: Object subsystem successfully closed.
+[2023.02.08-14.06.38:684][459]LogShaderCompilers: Display: ================================================
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Total job queries 288, among them cache hits 38 (13.19%)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Tracking 250 distinct input hashes that result in 163 distinct outputs (65.20%)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: RAM used: 1.76 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Shaders Compiled: 78
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Jobs assigned 78, completed 78 (100.00%)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Average time worker was idle: 344.12 s
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Time job spent in pending queue: average 3.61 s, longest 7.71 s
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 4.97 s
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Job life time (pending + execution): average 4.71 s, max 8.74
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.10 s
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Jobs were issued in 78 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Average processing rate: 5.53 jobs/sec
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Total thread time: 53.18 s
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Total thread preprocess time: 3.17 s
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Percentage time preprocessing: 5.95%
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Effective parallelization: 3.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   16 times, average 1.01 sec, max 2.27 sec, min 0.78 sec)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   16 times, average 0.89 sec, max 2.03 sec, min 0.77 sec)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   14 times, average 0.78 sec, max 1.85 sec, min 0.64 sec)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.77 sec, max 0.81 sec, min 0.70 sec)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   14 times, average 0.58 sec, max 1.34 sec, min 0.43 sec)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.52% of total time (compiled   16 times, average 1.01 sec, max 2.27 sec, min 0.78 sec)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.73% of total time (compiled   16 times, average 0.89 sec, max 2.03 sec, min 0.77 sec)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.63% of total time (compiled   14 times, average 0.78 sec, max 1.85 sec, min 0.64 sec)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 15.23% of total time (compiled   14 times, average 0.58 sec, max 1.34 sec, min 0.43 sec)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.32% of total time (compiled    3 times, average 0.77 sec, max 0.81 sec, min 0.70 sec)
+[2023.02.08-14.06.38:685][459]LogShaderCompilers: Display: ================================================
+[2023.02.08-14.06.38:729][459]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.02.08-14.06.38:765][459]LogVirtualization: UE::Virtualization was shutdown
+[2023.02.08-14.06.38:901][459]LogModuleManager: Shutting down and abandoning module TextureEditor (999)
+[2023.02.08-14.06.38:901][459]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (997)
+[2023.02.08-14.06.38:901][459]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (995)
+[2023.02.08-14.06.38:901][459]LogModuleManager: Shutting down and abandoning module Voice (993)
+[2023.02.08-14.06.38:901][459]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (991)
+[2023.02.08-14.06.38:901][459]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (989)
+[2023.02.08-14.06.38:901][459]LogModuleManager: Shutting down and abandoning module AddContentDialog (987)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module WidgetCarousel (986)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module SubobjectEditor (983)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module SceneOutliner (981)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module StatusBar (979)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (977)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module StatsViewer (975)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (973)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module AutomationWorker (971)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module TextureAlignMode (969)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module BspMode (967)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module GeometryMode (965)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module WaveTableEditor (963)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (961)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module GooglePADEditor (959)
+[2023.02.08-14.06.38:904][459]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (957)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (955)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (953)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (951)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (949)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (947)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module WebMMedia (945)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (943)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module SequenceRecorder (942)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (939)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (937)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (935)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (933)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (931)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (929)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (927)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (925)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module PlanarCut (923)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module CharacterAI (921)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module IKRigEditor (919)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module ControlRigEditor (917)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (915)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (913)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module TakesCore (911)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (909)
+[2023.02.08-14.06.38:905][459]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (907)
+[2023.02.08-14.06.38:906][459]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (905)
+[2023.02.08-14.06.38:906][459]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (903)
+[2023.02.08-14.06.38:906][459]LogModuleManager: Shutting down and abandoning module SmartSnapping (901)
+[2023.02.08-14.06.38:906][459]LogModuleManager: Shutting down and abandoning module SessionServices (899)
+[2023.02.08-14.06.38:907][459]LogModuleManager: Shutting down and abandoning module MeshPaint (897)
+[2023.02.08-14.06.38:907][459]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (895)
+[2023.02.08-14.06.38:907][459]LogModuleManager: Shutting down and abandoning module PlacementMode (894)
+[2023.02.08-14.06.38:907][459]LogModuleManager: Shutting down and abandoning module FoliageEdit (891)
+[2023.02.08-14.06.38:907][459]LogModuleManager: Shutting down and abandoning module LandscapeEditor (889)
+[2023.02.08-14.06.38:908][459]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (887)
+[2023.02.08-14.06.38:908][459]LogModuleManager: Shutting down and abandoning module ActorPickerMode (885)
+[2023.02.08-14.06.38:908][459]LogModuleManager: Shutting down and abandoning module ViewportSnapping (883)
+[2023.02.08-14.06.38:908][459]LogModuleManager: Shutting down and abandoning module ViewportInteraction (881)
+[2023.02.08-14.06.38:908][459]LogModuleManager: Shutting down and abandoning module ClothPainter (879)
+[2023.02.08-14.06.38:908][459]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (878)
+[2023.02.08-14.06.38:908][459]LogModuleManager: Shutting down and abandoning module LogVisualizer (875)
+[2023.02.08-14.06.38:908][459]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (873)
+[2023.02.08-14.06.38:908][459]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (871)
+[2023.02.08-14.06.38:908][459]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (870)
+[2023.02.08-14.06.38:908][459]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (868)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (865)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (863)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (861)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (859)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module AnimationSettings (857)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (855)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module CSVtoSVG (853)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (851)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module EditorConfig (849)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (847)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module EditorFramework (845)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (843)
+[2023.02.08-14.06.39:390][459]LogModuleManager: Shutting down and abandoning module TraceInsights (841)
+[2023.02.08-14.06.39:390][459]MemoryProfiler: Shutdown
+[2023.02.08-14.06.39:391][459]NetworkingProfiler: Shutdown
+[2023.02.08-14.06.39:391][459]LoadingProfiler: Shutdown
+[2023.02.08-14.06.39:391][459]TimingProfiler: Shutdown
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module TraceServices (840)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (837)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (836)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module InputBindingEditor (833)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module MergeActors (831)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (829)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module LocalizationService (828)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module HardwareTargeting (825)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (823)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module UndoHistory (821)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module XmlParser (819)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module Blutility (817)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (815)
+[2023.02.08-14.06.39:392][459]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (814)
+[2023.02.08-14.06.39:393][459]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (811)
+[2023.02.08-14.06.39:393][459]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (810)
+[2023.02.08-14.06.39:393][459]LogModuleManager: Shutting down and abandoning module SettingsEditor (807)
+[2023.02.08-14.06.39:393][459]LogModuleManager: Shutting down and abandoning module ProjectLauncher (805)
+[2023.02.08-14.06.39:393][459]LogModuleManager: Shutting down and abandoning module SessionFrontend (803)
+[2023.02.08-14.06.39:393][459]LogModuleManager: Shutting down and abandoning module ProfilerClient (801)
+[2023.02.08-14.06.39:393][459]LogModuleManager: Shutting down and abandoning module DeviceManager (799)
+[2023.02.08-14.06.39:393][459]LogModuleManager: Shutting down and abandoning module AutomationController (797)
+[2023.02.08-14.06.39:393][459]LogModuleManager: Shutting down and abandoning module AutomationWindow (795)
+[2023.02.08-14.06.39:394][459]LogModuleManager: Shutting down and abandoning module Layers (793)
+[2023.02.08-14.06.39:394][459]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (791)
+[2023.02.08-14.06.39:394][459]LogModuleManager: Shutting down and abandoning module DetailCustomizations (789)
+[2023.02.08-14.06.39:394][459]LogModuleManager: Shutting down and abandoning module PackagesDialog (787)
+[2023.02.08-14.06.39:394][459]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (785)
+[2023.02.08-14.06.39:394][459]LogModuleManager: Shutting down and abandoning module Persona (783)
+[2023.02.08-14.06.39:395][459]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (782)
+[2023.02.08-14.06.39:395][459]LogModuleManager: Shutting down and abandoning module AnimGraph (780)
+[2023.02.08-14.06.39:395][459]LogModuleManager: Shutting down and abandoning module Kismet (777)
+[2023.02.08-14.06.39:397][459]LogModuleManager: Shutting down and abandoning module KismetWidgets (776)
+[2023.02.08-14.06.39:397][459]LogModuleManager: Shutting down and abandoning module GraphEditor (773)
+[2023.02.08-14.06.39:398][459]LogModuleManager: Shutting down and abandoning module StructViewer (771)
+[2023.02.08-14.06.39:398][459]LogModuleManager: Shutting down and abandoning module ClassViewer (769)
+[2023.02.08-14.06.39:398][459]LogModuleManager: Shutting down and abandoning module NaniteTools (767)
+[2023.02.08-14.06.39:398][459]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (765)
+[2023.02.08-14.06.39:399][459]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (763)
+[2023.02.08-14.06.39:399][459]LogModuleManager: Shutting down and abandoning module SourceControlWindows (761)
+[2023.02.08-14.06.39:399][459]LogModuleManager: Shutting down and abandoning module OutputLog (759)
+[2023.02.08-14.06.39:401][459]LogModuleManager: Shutting down and abandoning module Documentation (757)
+[2023.02.08-14.06.39:401][459]LogModuleManager: Shutting down and abandoning module LiveCoding (755)
+[2023.02.08-14.06.39:417][459]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (753)
+[2023.02.08-14.06.39:417][459]LogModuleManager: Shutting down and abandoning module MovieScene (751)
+[2023.02.08-14.06.39:417][459]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (749)
+[2023.02.08-14.06.39:417][459]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (747)
+[2023.02.08-14.06.39:417][459]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (745)
+[2023.02.08-14.06.39:417][459]LogModuleManager: Shutting down and abandoning module AudioMixer (744)
+[2023.02.08-14.06.39:417][459]LogModuleManager: Shutting down and abandoning module AudioMixerCore (743)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module LauncherPlatform (739)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module AnalyticsET (737)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module PortalServices (735)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module PortalRpc (733)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module MessagingRpc (731)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module AIModule (729)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module GameplayDebugger (728)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module AITestSuite (726)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module NavigationSystem (724)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module DataLayerEditor (721)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module EditorWidgets (720)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (717)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (715)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module TypedElementFramework (713)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (711)
+[2023.02.08-14.06.39:418][459]LogModuleManager: Shutting down and abandoning module ProfilerService (709)
+[2023.02.08-14.06.39:529][459]LogModuleManager: Shutting down and abandoning module TaskGraph (707)
+[2023.02.08-14.06.39:529][459]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (705)
+[2023.02.08-14.06.39:529][459]LogModuleManager: Shutting down and abandoning module MegascansPlugin (703)
+[2023.02.08-14.06.39:529][459]LogModuleManager: Shutting down and abandoning module Bridge (701)
+[2023.02.08-14.06.39:529][459]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (699)
+[2023.02.08-14.06.39:529][459]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (697)
+[2023.02.08-14.06.39:529][459]LogModuleManager: Shutting down and abandoning module LightMixer (695)
+[2023.02.08-14.06.39:529][459]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (693)
+[2023.02.08-14.06.39:529][459]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (691)
+[2023.02.08-14.06.39:529][459]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2023.02.08-14.06.39:530][459]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (687)
+[2023.02.08-14.06.39:530][459]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (685)
+[2023.02.08-14.06.39:530][459]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (683)
+[2023.02.08-14.06.39:530][459]LogModuleManager: Shutting down and abandoning module CryptoKeys (681)
+[2023.02.08-14.06.39:530][459]LogModuleManager: Shutting down and abandoning module StylusInput (679)
+[2023.02.08-14.06.39:530][459]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (677)
+[2023.02.08-14.06.39:530][459]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (675)
+[2023.02.08-14.06.39:531][459]LogModuleManager: Shutting down and abandoning module PluginBrowser (673)
+[2023.02.08-14.06.39:531][459]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (671)
+[2023.02.08-14.06.39:531][459]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (669)
+[2023.02.08-14.06.39:531][459]LogModuleManager: Shutting down and abandoning module GLTFImporter (667)
+[2023.02.08-14.06.39:531][459]LogModuleManager: Shutting down and abandoning module GLTFCore (665)
+[2023.02.08-14.06.39:531][459]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (663)
+[2023.02.08-14.06.39:531][459]LogModuleManager: Shutting down and abandoning module EditorDebugTools (661)
+[2023.02.08-14.06.39:531][459]LogModuleManager: Shutting down and abandoning module CurveEditorTools (659)
+[2023.02.08-14.06.39:531][459]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (657)
+[2023.02.08-14.06.39:531][459]LogModuleManager: Shutting down and abandoning module SynthesisEditor (655)
+[2023.02.08-14.06.39:531][459]LogModuleManager: Shutting down and abandoning module ResonanceAudio (653)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (651)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (649)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (647)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module ModelingOperators (645)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (643)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module ModelingComponents (641)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module GeometryFramework (640)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (637)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module MeshModelingTools (635)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InputDebugging (633)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module DynamicMesh (631)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (629)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module GooglePAD (627)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (625)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (623)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (621)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (619)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module AppleImageUtils (617)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module AudioCapture (615)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (614)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module AssetTags (611)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (609)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module AndroidPermission (607)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (605)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (603)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module MediaCompositing (601)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (599)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module MediaPlate (597)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module ImgMedia (595)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (593)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (591)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (589)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangePipelines (587)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeExport (585)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeMessages (583)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeImport (581)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (579)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeNodes (577)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (575)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (573)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (571)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module InterchangeEditor (569)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (567)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module UVEditorTools (565)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module UVEditor (563)
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (561)
+[2023.02.08-14.06.39:532][459]LogOpenImageDenoise: OIDN shutting down
+[2023.02.08-14.06.39:532][459]LogModuleManager: Shutting down and abandoning module MeshLODToolset (559)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (557)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (555)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (553)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (551)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module Iris (549)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (547)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (545)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (543)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (541)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (539)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (538)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (536)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (533)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module FractureEditor (531)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module DataflowNodes (529)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module DataflowEditor (527)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (525)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (523)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module AutomationUtils (521)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (519)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module ChaosNiagara (517)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (515)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (513)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module BackChannel (511)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module ControlRigSpline (509)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (507)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module TakeSequencer (505)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module TakeMovieScene (503)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module TemplateSequence (501)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (499)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module SequencerScripting (497)
+[2023.02.08-14.06.39:533][459]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (495)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (491)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (489)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module InterchangeTests (487)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module AlembicImporter (485)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module AlembicLibrary (484)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module GeometryCache (483)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (482)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (477)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (475)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module UObjectPlugin (473)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (471)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (469)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module PluginUtils (467)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (465)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (463)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module DumpGPUServices (461)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module GitSourceControl (459)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (457)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (455)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (453)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module Paper2DEditor (451)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (449)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (447)
+[2023.02.08-14.06.39:534][459]LogModuleManager: Shutting down and abandoning module VariantManager (445)
+[2023.02.08-14.06.39:535][459]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (444)
+[2023.02.08-14.06.39:535][459]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (441)
+[2023.02.08-14.06.39:535][459]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (439)
+[2023.02.08-14.06.39:535][459]LogModuleManager: Shutting down and abandoning module TraceUtilities (437)
+[2023.02.08-14.06.39:535][459]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (435)
+[2023.02.08-14.06.39:535][459]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (433)
+[2023.02.08-14.06.39:535][459]LogModuleManager: Shutting down and abandoning module InputEditor (431)
+[2023.02.08-14.06.39:535][459]LogModuleManager: Shutting down and abandoning module TcpMessaging (429)
+[2023.02.08-14.06.39:636][459]LogModuleManager: Shutting down and abandoning module UdpMessaging (427)
+[2023.02.08-14.06.39:737][459]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (425)
+[2023.02.08-14.06.39:737][459]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (423)
+[2023.02.08-14.06.39:737][459]LogModuleManager: Shutting down and abandoning module FacialAnimation (421)
+[2023.02.08-14.06.39:737][459]LogModuleManager: Shutting down and abandoning module DataValidation (419)
+[2023.02.08-14.06.39:737][459]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (417)
+[2023.02.08-14.06.39:737][459]LogModuleManager: Shutting down and abandoning module TreeMap (416)
+[2023.02.08-14.06.39:737][459]LogModuleManager: Shutting down and abandoning module Synthesis (413)
+[2023.02.08-14.06.39:738][459]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (411)
+[2023.02.08-14.06.39:738][459]LogModuleManager: Shutting down and abandoning module SoundFields (409)
+[2023.02.08-14.06.39:738][459]LogModuleManager: Shutting down and abandoning module SignificanceManager (407)
+[2023.02.08-14.06.39:738][459]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (405)
+[2023.02.08-14.06.39:738][459]LogModuleManager: Shutting down and abandoning module MetasoundEditor (403)
+[2023.02.08-14.06.39:739][459]LogModuleManager: Shutting down and abandoning module AudioWidgets (402)
+[2023.02.08-14.06.39:739][459]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (401)
+[2023.02.08-14.06.39:739][459]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (397)
+[2023.02.08-14.06.39:739][459]LogModuleManager: Shutting down and abandoning module MetasoundEngine (395)
+[2023.02.08-14.06.39:739][459]LogModuleManager: Shutting down and abandoning module WaveTable (394)
+[2023.02.08-14.06.39:739][459]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (392)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (389)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (387)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (385)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (383)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (381)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (379)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module CableComponent (377)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (375)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (374)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (371)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (369)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (367)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module PBIK (365)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module FullBodyIK (363)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (361)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module TakeRecorder (360)
+[2023.02.08-14.06.39:740][459]LogModuleManager: Shutting down and abandoning module LevelEditor (358)
+[2023.02.08-14.06.39:756][459]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (357)
+[2023.02.08-14.06.39:756][459]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (355)
+[2023.02.08-14.06.39:756][459]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (353)
+[2023.02.08-14.06.39:757][459]LogModuleManager: Shutting down and abandoning module MainFrame (351)
+[2023.02.08-14.06.39:757][459]LogModuleManager: Shutting down and abandoning module HotReload (350)
+[2023.02.08-14.06.39:758][459]LogModuleManager: Shutting down and abandoning module ChaosCaching (345)
+[2023.02.08-14.06.39:759][459]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (343)
+[2023.02.08-14.06.39:759][459]LogModuleManager: Shutting down and abandoning module IKRig (341)
+[2023.02.08-14.06.39:759][459]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (339)
+[2023.02.08-14.06.39:759][459]LogModuleManager: Shutting down and abandoning module ControlRig (337)
+[2023.02.08-14.06.39:759][459]LogModuleManager: Shutting down and abandoning module LevelSequence (336)
+[2023.02.08-14.06.39:759][459]LogModuleManager: Shutting down and abandoning module ActorSequence (333)
+[2023.02.08-14.06.39:759][459]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (331)
+[2023.02.08-14.06.39:759][459]LogModuleManager: Shutting down and abandoning module Niagara (329)
+[2023.02.08-14.06.39:759][459]LogModuleManager: Shutting down and abandoning module SignalProcessing (328)
+[2023.02.08-14.06.39:759][459]LogModuleManager: Shutting down and abandoning module NiagaraEditor (326)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module ContentBrowser (325)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module ToolMenus (324)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module ContentBrowserData (322)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module NiagaraCore (317)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module GameplayCameras (315)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (313)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (311)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (309)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module AnimationSharing (307)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module Paper2D (305)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (303)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module EnhancedInput (301)
+[2023.02.08-14.06.39:760][459]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (299)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (297)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module AndroidFileServer (295)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (293)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module PacketHandler (291)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module TimeManagement (289)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module AnimationDataController (287)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (285)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (283)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module MediaAssets (281)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module Overlay (279)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module OverlayEditor (278)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module VREditor (275)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module StringTableEditor (273)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (271)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (269)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module FunctionalTesting (267)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (265)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (264)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module UMG (261)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module UMGEditor (260)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module EditorStyle (255)
+[2023.02.08-14.06.39:762][459]LogModuleManager: Shutting down and abandoning module SlateReflector (253)
+[2023.02.08-14.06.39:763][459]LogModuleManager: Shutting down and abandoning module Slate (251)
+[2023.02.08-14.06.39:763][459]LogModuleManager: Shutting down and abandoning module SlateCore (249)
+[2023.02.08-14.06.39:766][459]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (247)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (245)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module UnrealEd (243)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module MRMesh (241)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module Messaging (239)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (237)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (235)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module Networking (233)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module Core (231)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module MaterialEditor (229)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module MovieSceneTools (227)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module CurveEditor (226)
+[2023.02.08-14.06.39:767][459]LogModuleManager: Shutting down and abandoning module Sequencer (224)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module KismetCompiler (221)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module MeshBuilder (219)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module NaniteBuilder (217)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module MeshUtilities (215)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (214)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (213)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (212)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (210)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (208)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (206)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module MaterialBaking (202)
+[2023.02.08-14.06.39:768][459]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (199)
+[2023.02.08-14.06.39:779][459]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (195)
+[2023.02.08-14.06.39:779][459]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2023.02.08-14.06.39:803][459]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2023.02.08-14.06.39:804][459]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2023.02.08-14.06.39:804][459]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2023.02.08-14.06.39:804][459]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2023.02.08-14.06.39:804][459]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2023.02.08-14.06.39:804][459]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2023.02.08-14.06.39:804][459]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (180)
+[2023.02.08-14.06.39:804][459]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (178)
+[2023.02.08-14.06.39:804][459]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.02.08-14.06.39:804][459]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (174)
+[2023.02.08-14.06.39:804][459]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.02.08-14.06.39:805][459]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.02.08-14.06.39:805][459]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.02.08-14.06.39:805][459]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.02.08-14.06.39:805][459]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.02.08-14.06.39:805][459]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.02.08-14.06.39:806][459]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.02.08-14.06.39:806][459]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.02.08-14.06.39:806][459]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.02.08-14.06.39:806][459]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.02.08-14.06.39:808][459]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.02.08-14.06.39:808][459]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.02.08-14.06.39:808][459]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.02.08-14.06.39:808][459]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.02.08-14.06.39:808][459]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.02.08-14.06.39:808][459]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.02.08-14.06.39:808][459]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.02.08-14.06.39:808][459]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.02.08-14.06.39:808][459]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.02.08-14.06.39:811][459]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.02.08-14.06.39:812][459]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.02.08-14.06.39:812][459]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.02.08-14.06.39:812][459]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.02.08-14.06.39:812][459]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.02.08-14.06.39:812][459]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.02.08-14.06.39:812][459]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.02.08-14.06.39:812][459]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.02.08-14.06.39:812][459]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (112)
+[2023.02.08-14.06.39:812][459]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (110)
+[2023.02.08-14.06.39:812][459]LogModuleManager: Shutting down and abandoning module ChunkDownloader (108)
+[2023.02.08-14.06.39:812][459]LogModuleManager: Shutting down and abandoning module WmfMedia (106)
+[2023.02.08-14.06.39:820][459]LogModuleManager: Shutting down and abandoning module Media (105)
+[2023.02.08-14.06.39:825][459]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (102)
+[2023.02.08-14.06.39:825][459]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (100)
+[2023.02.08-14.06.39:825][459]LogModuleManager: Shutting down and abandoning module ChaosCloth (98)
+[2023.02.08-14.06.39:826][459]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (96)
+[2023.02.08-14.06.39:826][459]LogModuleManager: Shutting down and abandoning module NiagaraShader (94)
+[2023.02.08-14.06.39:826][459]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2023.02.08-14.06.39:826][459]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (90)
+[2023.02.08-14.06.39:826][459]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.02.08-14.06.39:831][459]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.02.08-14.06.39:831][459]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.02.08-14.06.39:843][459]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.02.08-14.06.39:843][459]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.02.08-14.06.39:843][459]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE7E5F2E3-4D94-447C-4EB8-75B56344FE1F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=cbc960d04b8e510840d334baabff2ce5%7C7142cab7161243559d2dd917ba9b7e05%7Cc191f010-d77d-42b1-a2ca-10c913fda520&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.02.08-14.06.39:873][459]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.02.08-14.06.39:879][459]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (74)
+[2023.02.08-14.06.39:879][459]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (72)
+[2023.02.08-14.06.39:879][459]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (70)
+[2023.02.08-14.06.39:879][459]LogModuleManager: Shutting down and abandoning module AISupportModule (68)
+[2023.02.08-14.06.39:879][459]LogModuleManager: Shutting down and abandoning module PixWinPlugin (66)
+[2023.02.08-14.06.39:879][459]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2023.02.08-14.06.39:879][459]LogModuleManager: Shutting down and abandoning module GLTFExporter (62)
+[2023.02.08-14.06.39:879][459]LogModuleManager: Shutting down and abandoning module DatasmithContent (60)
+[2023.02.08-14.06.39:886][459]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.02.08-14.06.39:886][459]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.02.08-14.06.39:887][459]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.02.08-14.06.39:887][459]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.02.08-14.06.39:887][459]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.02.08-14.06.39:887][459]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.02.08-14.06.39:887][459]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.02.08-14.06.39:887][459]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.02.08-14.06.39:887][459]LogXGEController: Cleaning working directory: C:/Users/sebvd/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.02.08-14.06.39:887][459]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.02.08-14.06.39:888][459]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.02.08-14.06.39:889][459]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.02.08-14.06.39:890][459]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.02.08-14.06.39:890][459]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.02.08-14.06.39:890][459]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.02.08-14.06.39:890][459]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.02.08-14.06.39:890][459]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.02.08-14.06.39:890][459]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.02.08-14.06.39:890][459]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.02.08-14.06.39:892][459]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.02.08-14.06.39:893][459]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.02.08-14.06.39:893][459]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.02.08-14.06.39:893][459]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.02.08-14.06.39:893][459]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.02.08-14.06.39:893][459]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.02.08-14.06.39:893][459]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.02.08-14.06.39:893][459]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.02.08-14.06.39:893][459]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.02.08-14.06.39:893][459]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.02.08-14.06.39:893][459]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.02.08-14.06.40:770][459]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.02.08-14.06.40:963][459]LogExit: Exiting.
+[2023.02.08-14.06.41:034][459]Log file closed, 02/08/23 15:06:41
