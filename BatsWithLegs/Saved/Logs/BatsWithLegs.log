@@ -3527,3 +3527,328 @@ Recommended: 516.25
 [2023.02.09-15.08.14:023][507]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2023.02.09-15.08.14:038][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
 [2023.02.09-15.08.14:073][508]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.02.09-15.10.26:692][391]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.09-15.10.26:698][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-15.10.26:698][391]PIE: New page: PIE session: MainMenu (Feb 9, 2023, 5:10:26 PM)
+[2023.02.09-15.10.26:698][391]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_MainMenu
+[2023.02.09-15.10.26:700][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001527s)
+[2023.02.09-15.10.26:700][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/MainMenu.MainMenu to /Game/FirstPerson/Maps/UEDPIE_0_MainMenu.MainMenu (0.001555s)
+[2023.02.09-15.10.26:700][391]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.09-15.10.26:700][391]LogAIModule: Creating AISystem for world MainMenu
+[2023.02.09-15.10.26:700][391]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2023.02.09-15.10.26:733][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.02.09-15.10.26:733][391]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.09-15.10.26:733][391]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-15.10.26:733][391]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-15.10.26:733][391]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-15.10.26:733][391]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-15.10.26:733][391]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-15.10.26:733][391]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.09-15.10.26:733][391]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-15.10.26:733][391]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-15.10.26:734][391]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-15.10.26:734][391]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-15.10.26:734][391]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-15.10.26:736][391]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.09-15.10.26:771][391]LogAudioMixer: Display: Using Audio Hardware Device luidspreker/Hoofdtelefoon (Realtek High Definition Audio)
+[2023.02.09-15.10.26:771][391]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-15.10.26:771][391]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-15.10.26:771][391]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-15.10.26:772][391]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.02.09-15.10.26:772][391]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.02.09-15.10.26:774][391]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.02.09-15.10.26:774][391]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.02.09-15.10.26:774][391]LogInit: FAudioDevice initialized.
+[2023.02.09-15.10.26:774][391]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2023.02.09-15.10.26:854][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-15.10.26:855][391]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.09-15.10.26:855][391]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.02.09-16.10.26
+[2023.02.09-15.10.26:855][391]LogWorld: Bringing up level for play took: 0.000381
+[2023.02.09-15.10.26:858][391]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.02.09-15.10.26:864][391]PIE: Server logged in
+[2023.02.09-15.10.26:866][391]PIE: Play in editor total start time 0.167 seconds.
+[2023.02.09-15.10.26:878][391]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: ================================================
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Total job queries 795, among them cache hits 85 (10.69%)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Tracking 710 distinct input hashes that result in 319 distinct outputs (44.93%)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: RAM used: 4.65 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.57%
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Shaders Compiled: 476
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Jobs assigned 476, completed 476 (100.00%)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Average time worker was idle: 38.05 s
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Time job spent in pending queue: average 25.30 s, longest 53.62 s
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Job execution time: average 2.54 s, max 11.06 s
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Job life time (pending + execution): average 27.84 s, max 54.44
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 89.86 s
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Jobs were issued in 421 batches (only local compilation was used), average 1.13 jobs/batch
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Average processing rate: 5.30 jobs/sec
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Total thread time: 544.37 s
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Total thread preprocess time: 32.06 s
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Percentage time preprocessing: 5.89%
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Effective parallelization: 6.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   13 times, average 1.79 sec, max 2.60 sec, min 1.00 sec)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   10 times, average 1.78 sec, max 2.35 sec, min 1.42 sec)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 1.70 sec, max 2.42 sec, min 1.15 sec)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 1.61 sec, max 2.27 sec, min 1.19 sec)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   10 times, average 1.61 sec, max 1.90 sec, min 1.26 sec)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.62% of total time (compiled   54 times, average 1.17 sec, max 2.10 sec, min 0.72 sec)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.78% of total time (compiled   54 times, average 1.09 sec, max 1.43 sec, min 0.79 sec)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.27% of total time (compiled   36 times, average 1.10 sec, max 1.71 sec, min 0.91 sec)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.75% of total time (compiled   36 times, average 1.02 sec, max 2.83 sec, min 0.77 sec)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.59% of total time (compiled   30 times, average 1.01 sec, max 1.99 sec, min 0.86 sec)
+[2023.02.09-15.10.29:754][561]LogShaderCompilers: Display: ================================================
+[2023.02.09-15.10.32:998][755]LogNet: Browse: /Game/FirstPerson/Maps/L_DemoLevel
+[2023.02.09-15.10.32:998][755]LogLoad: LoadMap: /Game/FirstPerson/Maps/L_DemoLevel
+[2023.02.09-15.10.32:998][755]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_MainMenu
+[2023.02.09-15.10.32:999][755]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-15.10.32:999][755]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-15.10.33:031][755]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.09-15.10.33:033][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.02.09-15.10.33:140][755]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_DemoLevel'.
+[2023.02.09-15.10.33:140][755]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.09-15.10.33:141][755]LogAIModule: Creating AISystem for world L_DemoLevel
+[2023.02.09-15.10.33:141][755]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2023.02.09-15.10.33:141][755]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.09-15.10.33:146][755]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel up for play (max tick rate 60) at 2023.02.09-16.10.33
+[2023.02.09-15.10.33:146][755]LogWorld: Bringing up level for play took: 0.005369
+[2023.02.09-15.10.33:150][755]LogLoad: Took 0.151866 seconds to LoadMap(/Game/FirstPerson/Maps/L_DemoLevel)
+[2023.02.09-15.11.15:311][290]LogNet: Browse: /Game/FirstPerson/Maps/L_DemoLevel
+[2023.02.09-15.11.15:311][290]LogLoad: LoadMap: /Game/FirstPerson/Maps/L_DemoLevel
+[2023.02.09-15.11.15:311][290]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel
+[2023.02.09-15.11.15:312][290]LogWorld: UWorld::CleanupWorld for L_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-15.11.15:312][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-15.11.15:387][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.09-15.11.15:393][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.02.09-15.11.15:554][290]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_DemoLevel'.
+[2023.02.09-15.11.15:555][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.09-15.11.15:555][290]LogAIModule: Creating AISystem for world L_DemoLevel
+[2023.02.09-15.11.15:555][290]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2023.02.09-15.11.15:556][290]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.09-15.11.15:563][290]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel up for play (max tick rate 60) at 2023.02.09-16.11.15
+[2023.02.09-15.11.15:564][290]LogWorld: Bringing up level for play took: 0.007865
+[2023.02.09-15.11.15:568][290]LogLoad: Took 0.257698 seconds to LoadMap(/Game/FirstPerson/Maps/L_DemoLevel)
+[2023.02.09-15.11.27:190][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-15.11.27:190][860]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel
+[2023.02.09-15.11.27:194][860]LogSlate: Window 'BatsWithLegs Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.02.09-15.11.27:213][860]LogWorld: UWorld::CleanupWorld for L_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-15.11.27:214][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-15.11.27:218][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-15.11.27:218][860]LogNiagaraEditor: onPieEnd
+[2023.02.09-15.11.27:230][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-15.11.27:279][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.09-15.11.27:281][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.09-15.11.27:294][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.02.09-15.11.27:327][861]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.02.09-15.11.32:887][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.02.09-15.11.33:098][171]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/L_DemoLevel.L_DemoLevel
+[2023.02.09-15.11.33:098][171]Cmd: MAP LOAD FILE="../../../../../Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/L_DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.02.09-15.11.33:098][171]LightingResults: New page: Lighting Build
+[2023.02.09-15.11.33:098][171]LoadErrors: New page: Loading map: L_DemoLevel.umap
+[2023.02.09-15.11.33:100][171]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-15.11.33:100][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-15.11.33:100][171]MapCheck: New page: Map Check
+[2023.02.09-15.11.33:100][171]LightingResults: New page: Lighting Build
+[2023.02.09-15.11.33:136][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.09-15.11.33:139][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.09-15.11.33:141][171]LogWorld: UWorld::CleanupWorld for L_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-15.11.33:142][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-15.11.33:181][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.02.09-15.11.33:221][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.02.09-15.11.33:332][171]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_DemoLevel'.
+[2023.02.09-15.11.33:332][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.09-15.11.33:332][171]LogAIModule: Creating AISystem for world L_DemoLevel
+[2023.02.09-15.11.33:433][171]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.09-15.11.33:472][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.02.09-15.11.33:482][171]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.09-15.11.33:482][171]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2023.02.09-15.11.33:483][171]LogFileHelpers: Loading map 'L_DemoLevel' took 0.384
+[2023.02.09-15.11.51:229][206]Cmd: DELETE
+[2023.02.09-15.11.51:269][206]Cmd: ACTOR DELETE
+[2023.02.09-15.11.51:557][206]LogEditorActor: Actor SpawnPoint3 is referenced by BP_Bat_Spawner.
+[2023.02.09-15.11.55:881][206]LogSlate: Window 'Message' being destroyed
+[2023.02.09-15.11.55:891][206]Message dialog closed, result: No, title: Message, text: Actor SpawnPoint3 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+BP_Bat_Spawner
+[2023.02.09-15.11.55:923][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.02.09-15.11.55:925][206]LogEditorActor: Deleted 0 Actors (0.061 secs)
+[2023.02.09-15.12.09:575][  6]Cmd: DELETE
+[2023.02.09-15.12.09:575][  6]Cmd: ACTOR DELETE
+[2023.02.09-15.12.09:576][  6]LogEditorActor: Actor SpawnPoint3 is referenced by BP_Bat_Spawner.
+[2023.02.09-15.12.12:525][  6]LogSlate: Window 'Message' being destroyed
+[2023.02.09-15.12.12:534][  6]Message dialog closed, result: Yes, title: Message, text: Actor SpawnPoint3 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+BP_Bat_Spawner
+[2023.02.09-15.12.12:575][  6]LogEditorActor: Deleted Actor: Actor
+[2023.02.09-15.12.12:609][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.02.09-15.12.12:610][  6]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2023.02.09-15.12.24:296][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.09-15.12.24:413][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.02.09-15.12.24:518][661]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_DemoLevel
+[2023.02.09-15.12.24:518][661]LogSavePackage: Moving '../../../../../Github/BATSWITHLEGS/BatsWithLegs/Saved/L_DemoLevelD373363B42D7F394456258A02A20BA0C.tmp' to '../../../../../Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/L_DemoLevel.umap'
+[2023.02.09-15.12.24:531][661]LogFileHelpers: No new changes to save!
+[2023.02.09-15.12.24:531][661]LogFileHelpers: Saving map 'L_DemoLevel' took 0.151
+[2023.02.09-15.12.24:540][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 244 ms (total: 1.53 sec)
+[2023.02.09-15.12.24:548][661]AssetCheck: New page: Asset Save: L_DemoLevel
+[2023.02.09-15.12.24:548][661]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_DemoLevel.L_DemoLevel
+[2023.02.09-15.12.25:268][704]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.02.09-15.12.25:274][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.09-15.12.25:274][704]PIE: New page: PIE session: L_DemoLevel (Feb 9, 2023, 5:12:25 PM)
+[2023.02.09-15.12.25:274][704]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel
+[2023.02.09-15.12.25:386][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111433s)
+[2023.02.09-15.12.25:386][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/L_DemoLevel.L_DemoLevel to /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel (0.111465s)
+[2023.02.09-15.12.25:386][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.09-15.12.25:386][704]LogAIModule: Creating AISystem for world L_DemoLevel
+[2023.02.09-15.12.25:387][704]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2023.02.09-15.12.25:422][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.02.09-15.12.25:423][704]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.02.09-15.12.25:423][704]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.09-15.12.25:423][704]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.09-15.12.25:423][704]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.09-15.12.25:423][704]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.09-15.12.25:423][704]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.09-15.12.25:423][704]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.09-15.12.25:423][704]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.09-15.12.25:423][704]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.09-15.12.25:423][704]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.09-15.12.25:423][704]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.09-15.12.25:423][704]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.09-15.12.25:425][704]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.09-15.12.25:463][704]LogAudioMixer: Display: Using Audio Hardware Device luidspreker/Hoofdtelefoon (Realtek High Definition Audio)
+[2023.02.09-15.12.25:464][704]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.09-15.12.25:464][704]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.09-15.12.25:464][704]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.09-15.12.25:464][704]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.02.09-15.12.25:464][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.02.09-15.12.25:467][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.02.09-15.12.25:467][704]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.02.09-15.12.25:467][704]LogInit: FAudioDevice initialized.
+[2023.02.09-15.12.25:467][704]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_DemoLevel'.
+[2023.02.09-15.12.25:525][704]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-15.12.25:526][704]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.02.09-15.12.25:530][704]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel up for play (max tick rate 60) at 2023.02.09-16.12.25
+[2023.02.09-15.12.25:530][704]LogWorld: Bringing up level for play took: 0.004404
+[2023.02.09-15.12.25:532][704]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.02.09-15.12.25:549][704]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:019D
+[2023.02.09-15.12.25:549][704]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.25:552][704]PIE: Server logged in
+[2023.02.09-15.12.25:553][704]PIE: Play in editor total start time 0.279 seconds.
+[2023.02.09-15.12.25:596][704]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2023.02.09-15.12.26:720][768]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:00CF
+[2023.02.09-15.12.26:720][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.26:720][768]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:019D
+[2023.02.09-15.12.26:720][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.28:305][851]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:019D
+[2023.02.09-15.12.28:305][851]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.29:711][925]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:00CF
+[2023.02.09-15.12.29:711][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.30:141][946]LogAudioMixer: Warning: Audio Thread Command from SetChannelMap()() took 2.748100 milleseconds to execute
+[2023.02.09-15.12.31:733][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:00CF
+[2023.02.09-15.12.31:734][ 12]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.36:418][166]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:00CF
+[2023.02.09-15.12.36:418][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.36:418][166]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:00CF
+[2023.02.09-15.12.36:418][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.36:418][166]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:019D
+[2023.02.09-15.12.36:418][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.37:919][234]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:00CF
+[2023.02.09-15.12.37:919][234]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.40:362][359]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:019D
+[2023.02.09-15.12.40:362][359]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.50:608][730]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:019D
+[2023.02.09-15.12.50:608][730]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.51:133][750]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:00CF
+[2023.02.09-15.12.51:133][750]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.57:953][973]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:019D
+[2023.02.09-15.12.57:953][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.12.58:896][  2]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:019D
+[2023.02.09-15.12.58:896][  2]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.02:386][132]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Random_OutItem
+	BP_Bat_Spawner_C /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel.L_DemoLevel:PersistentLevel.BP_Bat_Spawner_C_0
+	Function /Game/BP_Bat_Spawner.BP_Bat_Spawner_C:GetSpawnPoint:019D
+[2023.02.09-15.13.02:386][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.02:843][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.09:940][375]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.14:411][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.15:841][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.15:841][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.17:237][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.20:262][656]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.20:786][671]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.29:355][852]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Return Node Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.30:287][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.31:968][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.35:523][105]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.38:716][251]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.39:596][281]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.40:674][310]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Random_OutItem". Node:  Branch Graph:  GetSpawnPoint Function:  Get Spawn Point Blueprint:  BP_Bat_Spawner
+[2023.02.09-15.13.42:558][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.09-15.13.42:558][350]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_L_DemoLevel
+[2023.02.09-15.13.42:560][350]LogSlate: Window 'BatsWithLegs Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.02.09-15.13.42:572][350]LogWorld: UWorld::CleanupWorld for L_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2023.02.09-15.13.42:573][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-15.13.42:577][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.09-15.13.42:577][350]LogNiagaraEditor: onPieEnd
+[2023.02.09-15.13.42:585][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.09-15.13.42:633][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.09-15.13.42:634][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.02.09-15.13.42:637][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.02.09-15.13.42:653][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.02.09-15.13.42:912][351]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.02.09-15.13.48:134][656]LogSlate: Window 'Message Log' being destroyed
+[2023.02.09-15.13.48:142][656]LogSlate: Window 'Message Log' being destroyed
+[2023.02.09-15.14.01:580][456]Cmd: TRANSACTION UNDO
+[2023.02.09-15.14.01:620][456]LogEditorTransaction: Undo Clicking on Elements
+[2023.02.09-15.14.10:732][959]Cmd: TRANSACTION UNDO
+[2023.02.09-15.14.10:732][959]LogEditorTransaction: Undo Select Brush Surface
+[2023.02.09-15.14.11:340][970]Cmd: TRANSACTION UNDO
+[2023.02.09-15.14.11:340][970]LogEditorTransaction: Undo Clicking on Elements
+[2023.02.09-15.14.34:203][323]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.02.09-15.14.34:203][323]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.02.09-15.14.46:292][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.09-15.14.46:412][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.02.09-15.14.46:526][ 36]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/L_DemoLevel
+[2023.02.09-15.14.46:526][ 36]LogSavePackage: Moving '../../../../../Github/BATSWITHLEGS/BatsWithLegs/Saved/L_DemoLevel1AD2348D4711A07D9039029A38F2D4CB.tmp' to '../../../../../Github/BATSWITHLEGS/BatsWithLegs/Content/FirstPerson/Maps/L_DemoLevel.umap'
+[2023.02.09-15.14.46:540][ 36]LogFileHelpers: No new changes to save!
+[2023.02.09-15.14.46:540][ 36]LogFileHelpers: Saving map 'L_DemoLevel' took 0.163
+[2023.02.09-15.14.46:551][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 1.78 sec)
+[2023.02.09-15.14.46:559][ 36]AssetCheck: New page: Asset Save: L_DemoLevel
+[2023.02.09-15.14.46:559][ 36]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/L_DemoLevel.L_DemoLevel
